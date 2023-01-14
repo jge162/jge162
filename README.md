@@ -1,17 +1,17 @@
 <img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" alt="3D Animation Banner">
 
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
-<h3 align="center">Computer Engineering major class of 23'</h3>
+<h3 align="center">I am a Computer Engineering major, soon to be Class of 23'</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> </p>
 
-- I’m currently working on Linkedin training "Python for students"
+- Currently I am working on certification through Linkedin Learning "Python for students".
 
-- In addition, I am learning Python, Javascript and SQL
+- In addition, I am learning Javascript and SQL.
 
-- I’m looking for entry level Embedded Software Engineer internship || job
+- I’m looking for an entry level Embedded Software Engineer internship or job.
 
-- I’m looking to help others with C/C++ students](If they are stuck
+- Lastly, I am interested in helping others with C/C++ students if they are stuck.
 
 <p align="left">
 </p>
