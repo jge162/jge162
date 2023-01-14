@@ -8,7 +8,7 @@
 
 - Currently I am working on certification through Linkedin Learning "Python for students".
 
-- In addition, I am learning Javascript and SQL.
+- In addition, I am learning <em> Javascript and SQL</em>
 
 - I’m looking for an entry level Embedded Software Engineer internship or job.
 
