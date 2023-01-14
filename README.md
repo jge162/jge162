@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center">I am a Computer Engineering major, soon to be Class of 23'</h3>
-<img  alt="Coding" width="400px" src="https://techcrunch.com/wp-content/uploads/2021/06/GitHub-Copilot-1.gif"/>
+<align="right"> <img  alt="Coding" width="400px" src="https://techcrunch.com/wp-content/uploads/2021/06/GitHub-Copilot-1.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> </p>
