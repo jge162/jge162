@@ -1,4 +1,5 @@
-[![MasterHead]([[https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://techcrunch.com/wp-content/uploads/2021/06/GitHub-Copilot-1.gif](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)))]
+[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)]
+
 <h1 align="center">Hello, I am Jeremy Escobar</h1>
 <h3 align="center">Computer Engineering major class of 23'</h3>
 (img align="right" alt="Coding" width="400" src="[https://techcrunch.com/wp-content/uploads/2021/06/GitHub-Copilot-1.gif](https://techcrunch.com/wp-content/uploads/2021/06/GitHub-Copilot-1.gif)”)
