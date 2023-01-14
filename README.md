@@ -1,4 +1,4 @@
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)]
+<img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" alt="3D Animation Banner">
 
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center">Computer Engineering major class of 23'</h3>
@@ -8,7 +8,7 @@
 
 - I’m currently working on Linkedin training "Python for students"
 
-- I am currently learning Python, Javascript and SQL
+- In addition, I am learning Python, Javascript and SQL
 
 - I’m looking for entry level Embedded Software Engineer internship || job
 
