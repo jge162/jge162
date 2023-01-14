@@ -4,18 +4,20 @@
 <h3 align="center">I am a Computer Engineering major, soon to be Class of 23'</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> </p>
-
-- Currently I am working on certification through Linkedin Learning "Python for students".
-
-- In addition, I am learning <em> Javascript and SQL</em>
-
-- I’m looking for an entry level Embedded Software Engineer internship or job.
-
-- Lastly, I am interested in helping others with C/C++, if they are stuck.
-
-<p align="left">
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> 
 </p>
+
+- I’m currently working on <a href="https://linkedin.com/">Linkedin</a> (Python for students)
+
+- I am currently learning <em>Python, Javascript and SQL</em>
+
+- I’m looking for entry level <a href="https://jobs.com/">Embedded Software Engineer</a> (internship || job)
+
+- I’m looking to help others with <a href="https://tutorials.com/C/C++">C/C++ students</a> (If they are stuck)
+
+<h3 align="left">Connect with me:</h3>
+
 
 
 
