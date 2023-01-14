@@ -1,8 +1,9 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)]
 
-<h1 align="center">Hello, I am Jeremy Escobar</h1>
+<h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center">Computer Engineering major class of 23'</h3>
-(img align="right" alt="Coding" width="400" src="[https://techcrunch.com/wp-content/uploads/2021/06/GitHub-Copilot-1.gif](https://techcrunch.com/wp-content/uploads/2021/06/GitHub-Copilot-1.gif)”)
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> </p>
 
