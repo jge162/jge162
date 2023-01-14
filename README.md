@@ -11,7 +11,7 @@
 
 - I’m looking for an entry level Embedded Software Engineer internship or job.
 
-- Lastly, I am interested in helping others with C/C++, if you are stuck.
+- Lastly, I am interested in helping others with C/C++, if they are stuck.
 
 <p align="left">
 </p>
