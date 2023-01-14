@@ -2,7 +2,6 @@
 
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center">Computer Engineering major class of 23'</h3>
-<(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> </p>
