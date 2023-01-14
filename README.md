@@ -14,7 +14,7 @@
 
 - Lastly, I am interested in helping others with C/C++, if they are stuck.
 
-<p align="center">
+<p align="left">
 </p>
 
 <p align="center">Languages and IDEs I know:</p>
