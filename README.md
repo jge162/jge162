@@ -39,3 +39,8 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
+## 1. GitHub Stats
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?jge162=Tanu-N-Prabhu&show_icons=true)
+
+
