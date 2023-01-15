@@ -45,7 +45,7 @@
 
 ## 3. Contributors Badge
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+![Your Repository's Stats](https://contrib.rocks/image?repo=jge162/Python)
 
 ## 4. Random Joke Generator
 
@@ -53,7 +53,7 @@
 
 ## 5. Profile View Counter
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+![Profile View Counter](https://komarev.com/ghpvc/?jge162=Tanu-N-Prabhu)
 
 ### Repository View Counter - HITS
 
