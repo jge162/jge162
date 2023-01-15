@@ -34,12 +34,9 @@
 
 
 
-## 4. Random Joke Generator
+## Random Joke Generator
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-## 1. GitHub Stats
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?jge162=Your_GitHub_jge162&show_icons=true)
 
