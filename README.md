@@ -32,10 +32,11 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jge162&" alt="jge162" /></p>
 
 
-
+<p align="left"> 
 ## Random Joke Generator
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+</p>
 
 
 
