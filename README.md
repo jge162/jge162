@@ -33,7 +33,7 @@
 
 
 <p align="left"> 
-## Random Joke Generator
+Random Joke Generator
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 </p>
