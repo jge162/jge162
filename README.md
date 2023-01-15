@@ -41,5 +41,5 @@
 
 ## 1. GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_jge162&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?jge162=Your_GitHub_jge162&show_icons=true)
 
