@@ -1,7 +1,7 @@
 <img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" alt="3D Animation Banner">
 
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
-<h3 align="center">I am a Computer Engineering major, soon to be Class of 23'!</h3>
+<h3 align="center">I am a Computer Engineering major and a soon-to-be member of the Class of 2023!</h3>
 
 
 <p align="left"> 
