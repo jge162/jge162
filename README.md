@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> 
 </p>
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 - Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> Python for students.
 
