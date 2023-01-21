@@ -1,4 +1,4 @@
-<img src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png" alt="3D Animation Banner">
+<img src="https://www.christ-es.com/fileadmin/_processed_/c/d/csm_Header-Softwareentwicklung_90bc96c8f9.jpg" alt="3D Animation Banner">
 
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center">B.S. Computer Engineering, Class of 23!</h3>
