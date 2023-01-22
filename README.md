@@ -4,7 +4,7 @@
 <h3 align="center">B.S. Computer Engineering, Class of 23!</h3>
 
 <p align="left"> 
-  <img src="https://img.shields.io/github/directory-file-count/jge162?tab=repositoriescolor=4078c0&style=for-the-badge" alt="jge162" /> 
+  <img src="https://img.shields.io/github/directory-file-count/jge162?tab=repositoriescolor=4078c0&style=for-the-badge"> 
 </p>
 
 <p align="left"> 
