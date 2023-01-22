@@ -3,6 +3,8 @@
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center">B.S. Computer Engineering, Class of 23!</h3>
 
+![Total Files](https://img.shields.io/github/directory-file-count/jge162?tab=repositoriescolor=4078c0&style=for-the-badge)
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> 
