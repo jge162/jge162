@@ -11,7 +11,7 @@
 
 - Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> for Javascript.
 
-- In addition, I am learing <a href="https://udemy.com/">Javascript and SQL</a>.
+- In addition, I am learing <a href="https://udemy.com/">Java and SQL</a>.
 
 - I’m looking for entry level <a href="https://jobs.com/">Embedded Software Engineer</a> internship or job.
 
