@@ -3,12 +3,13 @@
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center">B.S. Computer Engineering, Class of 23!</h3>
 
-<p align="left"> 
+![GitHub followers](https://img.shields.io/github/followers/jge162?style=flat-square)
+
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> 
 </p>
-<p align="center"> 
-![GitHub followers](https://img.shields.io/github/followers/jge162?style=flat-square)
-</p>
+
+
 - Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> Python for students.
 
 - In addition, I am learing <a href="https://udemy.com/">Javascript and SQL</a>.
