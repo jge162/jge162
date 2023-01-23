@@ -36,7 +36,3 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-
-# Fun fact I love to offroad 
-
-![IMG_8535](https://user-images.githubusercontent.com/31228460/213951896-d0943f17-80c6-4230-9567-3242d12d7cf1.jpg)
