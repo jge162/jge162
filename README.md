@@ -7,8 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> 
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/jge162?style=for-the-badge)
-
+![GitHub followers](https://img.shields.io/github/followers/jge162?style=flat-square)
 
 - Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> Python for students.
 
