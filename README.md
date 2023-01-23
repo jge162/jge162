@@ -9,7 +9,7 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/jge162?logo=GitHub&style=flat-square)
 
-- Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> Python for students.
+- Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> for Javascript.
 
 - In addition, I am learing <a href="https://udemy.com/">Javascript and SQL</a>.
 
