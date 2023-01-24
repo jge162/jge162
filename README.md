@@ -37,5 +37,5 @@
 ![Jge's's GitHub stats](https://github-readme-stats.vercel.app/api?username=jge162&show_icons=true&theme=tokyonight)
 
 <br/><br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jge162&show_icons=true&locale=en" alt="jge162" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api username=jge162&show_icons=true&theme=tokyonight" alt="jge162" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jge162&show_icons=true&locale=en&layout=compact" alt="jge162" /></p>
