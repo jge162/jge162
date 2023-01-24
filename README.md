@@ -32,6 +32,7 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=jge162&show_icons=true&theme=tokyonight" alt="Jge's's GitHub stats">
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jge162&show_icons=true&theme=tokyonight" alt="Jge's">
 </div>
 
