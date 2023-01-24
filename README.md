@@ -35,5 +35,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jge162&show_icons=true&theme=tokyonight" alt="Jge's">
 </div>
 
-<br/><br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jge162&show_icons=true&locale=en" alt="jge162" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jge162&show_icons=true&locale=en&layout=compact" alt="jge162" /></p>
