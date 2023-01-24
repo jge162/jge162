@@ -34,3 +34,5 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jge162&show_icons=true&theme=tokyonight" alt="Jge's">
 </div>
+
+<a href="http://www.github.com/jge162"><img src="https://github-readme-streak-stats.jge162.com/?user=jge162&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
