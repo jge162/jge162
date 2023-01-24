@@ -36,6 +36,8 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br/><br/>
 ![Jge's's GitHub stats](https://github-readme-stats.vercel.app/api?username=jge162&show_icons=true&theme=tokyonight)
+![Jge's]("https://github-readme-stats.vercel.app/api/top-langs?username=jge162&show_icons=true&locale=en&layout=compact")
+
 
 <br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api username=jge162&show_icons=true&theme=tokyonight" alt="jge162" /></p>
