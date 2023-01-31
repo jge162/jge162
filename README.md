@@ -36,5 +36,4 @@
 
 <img width="491" alt="Screenshot 2023-01-28 at 1 31 13 AM" src="https://user-images.githubusercontent.com/31228460/215258739-6ac0360c-db14-439f-8675-f4dcd7ea8e0e.png">
 
-Link to some of my gists as I continue to build them -> 
-https://gist.github.com/jge162 
+Link to some of my gists as I continue to build them -> [GISTS](https://gist.github.com/jge162)
