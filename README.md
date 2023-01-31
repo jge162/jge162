@@ -36,4 +36,4 @@
 
 <img width="491" alt="Screenshot 2023-01-28 at 1 31 13 AM" src="https://user-images.githubusercontent.com/31228460/215258739-6ac0360c-db14-439f-8675-f4dcd7ea8e0e.png">
 
-<h3 align="left">Link to some of my Gist's as I continue to build them ->  <a href="https://gist.github.com/jge162">GIST'S</a></h3>
+<h3 align="left">Link to some of my Gist's as I continue to build them ->  Workflows <a href="https://gist.github.com/jge162">GIST'S</a></h3>
