@@ -17,7 +17,7 @@
 
 - Lastly, I am looking to help others with <a href="https://tutorials.com/C/C++">C/C++</a> If they are stuck.
 
-<h3 align="left">Languages and IDEs I know, but not all listed, dont want to bore you:</h3>
+<h3 align="left">Languages and IDEs I know, but not all listed, 'dont want to bore you':</h3>
 
 
 
