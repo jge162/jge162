@@ -38,5 +38,5 @@
 
 <h3 align="left">"Link to some of my Workflows as I continue to build them" -> <a href="https://gist.github.com/jge162">GIST'S</a></h3>
 
-<img width="600" alt="Screenshot 2023-02-03 at 11 59 37 PM" src="https://user-images.githubusercontent.com/31228460/216756192-09851424-ce74-417c-85a5-858af6dc5e9c.png">
+<img width="625" alt="Screenshot 2023-02-03 at 11 59 37 PM" src="https://user-images.githubusercontent.com/31228460/216756192-09851424-ce74-417c-85a5-858af6dc5e9c.png">
 
