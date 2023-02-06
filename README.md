@@ -13,7 +13,7 @@
 
 - In addition, I am learing <a href="https://udemy.com/">Java and SQL</a>.
 
-- I’m looking for entry level <a href="https://jobs.com/">Embedded, Hardware, Firmware, Systems & Software Engineering</a> internships or job.
+- I’m looking for entry level <a href="https://jobs.com/">Embedded software, Hardware engineer, Firmware engineer , Systems engineer and/or Software Engineer</a> internships or job.
 
 
 <h3 align="left">GitHub Streaks: </h3>
