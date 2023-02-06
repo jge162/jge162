@@ -13,9 +13,8 @@
 
 - In addition, I am learing <a href="https://udemy.com/">Java and SQL</a>.
 
-- I’m looking for entry level <a href="https://jobs.com/">Embedded Software Engineer</a> internship or job.
+- I’m looking for entry level <a href="https://jobs.com/">Embedded,Hardware,Firmware & Software Engineering</a> internships or job.
 
-- Lastly, I am looking to help others with <a href="https://tutorials.com/C/C++">C/C++</a> If they are stuck.
 
 <h3 align="left">GitHub Streaks: </h3>
 <a href="http://www.github.com/jge162"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jge162&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
