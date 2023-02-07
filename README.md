@@ -8,6 +8,7 @@
 </p>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/jge162?logo=GitHub&style=flat-square)
+<a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 
 - Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> for Javascript.
 
