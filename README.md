@@ -26,5 +26,8 @@
 
 <h3 align="left">Link to GitHub Marketplace Actions I have created </h3>
 
-[GitHub Marketplace/Python Action](https://github.com/marketplace/actions/python-action)
-[GitHub Marketplace/Create Release](https://github.com/marketplace/actions/create-release-upon-close-pull-request)
+<p align="left"> [GitHub Marketplace/Python Action](https://github.com/marketplace/actions/python-action)</p>
+<p align="left"> [GitHub Marketplace/Create Release](https://github.com/marketplace/actions/create-release-upon-close-pull-request)</p>
+
+![image](https://user-images.githubusercontent.com/31228460/218439841-0006613e-8bda-40e2-bfb0-1dc85cf012dd.png)
+
