@@ -24,6 +24,6 @@
 
 <h3 align="left">"Link to some of my custom GitHub Action Workflows as I continue to build them" -> <a href="https://gist.github.com/jge162">GIST's</a></h3>
 
-<h3 align="left">"Link to GitHub Marketplace Action I have created" -> <a href="https://github.com/marketplace/actions/python-action">GitHub Marketplace/Python, Action</a></h3>
+<h3 align="left">"Link to GitHub Marketplace Actions I have created" -> <a href="https://github.com/marketplace/actions/python-action">GitHub Marketplace/Python, Action</a></h3>
 <h3 align="left"> <a href="https://github.com/marketplace/actions/create-release-upon-close-pull-request">GitHub Marketplace/Create Release</a></h3>
 
