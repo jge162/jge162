@@ -30,5 +30,7 @@
 
 
 <img width="889" alt="Screenshot 2023-02-13 at 5 07 49 PM" src="https://user-images.githubusercontent.com/31228460/218612065-8743b578-54e6-4d43-a3d9-560ff76af790.png">
-<img width="1000" alt="Screenshot 2023-02-13 at 5 26 06 PM" src="https://user-images.githubusercontent.com/31228460/218614452-3a1996ee-a2a5-4f7f-829c-332827dfe78b.png">
+<a href="https://github.com/marketplace/actions/python-action">
+  <img width="1060" alt="Screenshot 2023-02-13 at 5 26 06 PM" src="https://user-images.githubusercontent.com/31228460/218614452-3a1996ee-a2a5-4f7f-829c-332827dfe78b.png">
+</a>
 
