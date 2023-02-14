@@ -25,10 +25,10 @@
 <h3 align="left">"Link to some of my custom GitHub Action Workflows" -> <a href="https://gist.github.com/jge162">GIST's</a></h3>
 <img src="https://user-images.githubusercontent.com/31228460/218441875-80867815-8e71-4dc7-9205-8bb995f3ccde.png">
 
-<h3 align="left">"Link to GitHub Marketplace Actions I have created" -> <a href="https://github.com/marketplace/actions/python-action">Python Action,</a><a href="https://github.com/marketplace/actions/create-release-upon-close-pull-request"> Create Release</a></h3>
+<h3 align="left">"Link to GitHub Marketplace Actions I have created" -> <a href="https://github.com/marketplace/actions/python-action">Python Action,</a><a href="https://github.com/marketplace/actions/create-release-on-close"> Create Release</a></h3>
 
 
-<a href="https://github.com/marketplace/actions/create-release-upon-close-pull-request">
+<a href="https://github.com/marketplace/actions/create-release-on-close">
   <img width="600" alt="Screenshot 2023-02-13 at 5 07 49 PM" src="https://user-images.githubusercontent.com/31228460/218612065-8743b578-54e6-4d43-a3d9-560ff76af790.png">
 </a>
 <a href="https://github.com/marketplace/actions/python-action">
