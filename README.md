@@ -28,5 +28,6 @@
 <h3 align="left">"Link to GitHub Marketplace Actions I have created" -> <a href="https://github.com/marketplace/actions/python-action">GitHub Marketplace/Python Action,</a></h3>
 <h3 align="left"> <a href="https://github.com/marketplace/actions/create-release-upon-close-pull-request">GitHub Marketplace/Create Release</a></h3>
 
-![image](https://user-images.githubusercontent.com/31228460/218441625-234ebe6b-a6eb-490b-831e-081d1cfc06d8.png)
+
+<img width="889" alt="Screenshot 2023-02-13 at 5 07 49 PM" src="https://user-images.githubusercontent.com/31228460/218612065-8743b578-54e6-4d43-a3d9-560ff76af790.png">
 
