@@ -22,7 +22,7 @@
 
 <img width="491" alt="Screenshot 2023-01-28 at 1 31 13 AM" src="https://user-images.githubusercontent.com/31228460/215258739-6ac0360c-db14-439f-8675-f4dcd7ea8e0e.png">
 
-<h3 align="left">"Link to some of my custom GitHub Action Workflows as I continue to build them" -> <a href="https://gist.github.com/jge162">GIST's</a></h3>
+<h3 align="left">"Link to some of my custom GitHub Action Workflows " -> <a href="https://gist.github.com/jge162">GIST's</a></h3>
 <img src="https://user-images.githubusercontent.com/31228460/218441875-80867815-8e71-4dc7-9205-8bb995f3ccde.png">
 
 <h3 align="left">"Link to GitHub Marketplace Actions I have created" -> <a href="https://github.com/marketplace/actions/python-action">Python Action,</a><a href="https://github.com/marketplace/actions/create-release-upon-close-pull-request"> Create Release</a></h3>
