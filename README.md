@@ -35,11 +35,25 @@
   <img width="600" alt="Screenshot 2023-02-13 at 5 26 06 PM" src="https://user-images.githubusercontent.com/31228460/218614452-3a1996ee-a2a5-4f7f-829c-332827dfe78b.png">
 </a>
 
-  `- name: create-release-on-close`
-  `uses: jge162/create-release@v1.1.1`
+```yank
+name: Python Action
 
-  `- name: Python Action`
-  `uses: jge162/Action-workflows@1.0.1`
+on:
+  schedule:
+  - cron: '0 0 * * 6' 
+    # action will run once a week on Saturday at 12:00 am 
+  workflow_dispatch:
 
+jobs:
+  Python-analyze:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: create-release-on-close`
+    uses: jge162/create-release@v1.1.1`
+
+    - name: Python Action`
+    uses: jge162/Action-workflows@1.0.1`
+```
 
 
