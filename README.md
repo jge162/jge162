@@ -50,10 +50,10 @@ jobs:
 
     steps:
     - name: Python Action
-    uses: jge162/Action-workflows@1.0.1
+      uses: jge162/Action-workflows@1.0.1
 
     - name: create-release-on-close
-    uses: jge162/create-release@v2.1.1
+      uses: jge162/create-release@v2.1.1
 ```
 
 
