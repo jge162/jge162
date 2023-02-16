@@ -28,7 +28,7 @@
 </a>
 
 
-<h3 align="left">"Link to GitHub Marketplace Actions I have created" -> <a href="https://github.com/marketplace/actions/python-action">Python-workflows,</a><a href="https://github.com/marketplace/actions/create-release-on-close"> create-release,</a><a href="[https://gist.github.com/jge162](https://github.com/marketplace/actions/verilog-compiler)"> verilog-compiler</a>
+<h3 align="left">"Link to GitHub Marketplace Actions I have created" -> <a href="https://github.com/marketplace/actions/python-action">Python-workflows,</a><a href="https://github.com/marketplace/actions/create-release-on-close"> create-release,</a><a href="https://github.com/marketplace/actions/verilog-compiler"> verilog-compiler</a>
 </h3>
 
 <a href="https://github.com/marketplace/actions/create-release-on-close">
