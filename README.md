@@ -49,7 +49,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Python Action`
+    - name: Python Action
     uses: jge162/Action-workflows@1.0.1
 
     - name: create-release-on-close
