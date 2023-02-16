@@ -35,3 +35,7 @@
   <img width="600" alt="Screenshot 2023-02-13 at 5 26 06 PM" src="https://user-images.githubusercontent.com/31228460/218614452-3a1996ee-a2a5-4f7f-829c-332827dfe78b.png">
 </a>
 
+  `- name: create-release-on-close`
+  `uses: jge162/create-release@v1.1.1`
+
+
