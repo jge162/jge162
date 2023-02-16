@@ -39,7 +39,7 @@
 </a>
 
 ```yank
-name: Python Action
+name: Python Action, create-release, verilog-compiler
 
 on:
   schedule:
