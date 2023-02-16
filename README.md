@@ -41,7 +41,7 @@ name: Python Action
 on:
   schedule:
   - cron: '0 0 * * 6' 
-    # action will run once a week on Saturday at 12:00 am 
+  # action will run once a week on Saturday at 12:00 am 
   workflow_dispatch:
 
 jobs:
