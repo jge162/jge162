@@ -20,8 +20,6 @@
   </p>
 </div>
 
-
-
 - Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> for Javascript.
 
 - In addition, I am learing <a href="https://udemy.com/">Java and SQL</a>.
