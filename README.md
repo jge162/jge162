@@ -51,5 +51,5 @@ jobs:
       
     - name: Verilog Compiler
       uses: jge162/verilog_compiler@1.0.0
-      # I creates this because I have experience with Verilog and
+      # I created this because I have experience with Verilog and
       # found nothing useful in the Github marketplace for it.
