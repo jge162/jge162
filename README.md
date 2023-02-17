@@ -24,6 +24,12 @@
 <h3 align="left">"Link to GitHub Marketplace Actions I have created" -> <a href="https://github.com/marketplace/actions/python-action">Python-workflows,</a><a href="https://github.com/marketplace/actions/create-release-on-close"> create-release,</a><a href="https://github.com/marketplace/actions/verilog-compiler"> verilog-compiler</a>
 </h3>
 
+<h3 align="left">"Link to GitHub Marketplace Actions I have created" -> 
+<a href="https://github.com/marketplace/actions/python-action" align="left">Python-workflows,</a>
+<a href="https://github.com/marketplace/actions/create-release-on-close" align="left"> create-release,</a>
+<a href="https://github.com/marketplace/actions/verilog-compiler" align="left"> verilog-compiler</a>
+</h3>
+
 ```yaml
 name: Python Action, create-release, verilog-compiler
 
@@ -51,39 +57,3 @@ jobs:
       # created because I have done Verilog in the past
       # and I found nothing in the Github marketplace
       # for Verilog that was useful.
-
-
-|                              Link to GitHub Marketplace Actions I have created                              |
-|-------------------------------------------------------------------------------------------------------------|
-| <a href="https://github.com/marketplace/actions/python-action">Python-workflows,</a><a href="https://github.com/marketplace/actions/create-release-on-close"> create-release,</a><a href="https://github.com/marketplace/actions/verilog-compiler"> verilog-compiler</a> |
-|----------------------------------------------------------------------------------------------------------------|
-|name: Python Action, create-release, verilog-compiler                                                            |
-|                                                                                                                |
-|on:                                                                                                             |
-|  schedule:                                                                                                    |
-|  - cron: '0 0 * * 6'                                                                                          |
-|  # action will run once a week on Saturday at 12:00 am                                                         |
-|  workflow_dispatch:                                                                                           |
-|                                                                                                                |
-|jobs:                                                                                                           |
-|  Python-analyze:                                                                                              |
-|    runs-on: ubuntu-latest                                                                                     |
-|                                                                                                                |
-|    steps:                                                                                                      |
-|    - name: Python Action                                                                                      |
-|      uses: jge162/Action-workflows@1.0.1                                                                       |
-|      # multiple purpose GitHub Action.                                                                        |
-|                                                                                                                |
-|    - name: create-release-on-close                                                                            |
-|      uses: jge162/create-release@v2.1.1                                                                        |
-|      # created to streamline, releases.                                                                       |
-|                                                                                                                |
-|    - name: Verilog Compiler                                                                                    |
-|      uses: jge162/verilog_compiler@1.0.0                                                                        |
-|      # created because I have done Verilog in the past                                                          |
-|      # and I found nothing in the Github marketplace                                                           |
-|      # for Verilog that was useful.                                                                            |
-|                                                                                                                |
-|                                                                                                                |
-
-
