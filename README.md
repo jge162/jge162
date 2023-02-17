@@ -14,31 +14,7 @@
 
 - In addition, I am learing <a href="https://udemy.com/">Java and SQL</a>.
 
-- I’m looking for an entry level <a href="https://jobs.com/">Embedded software, Hardware/Electrical engineer, Firmware engineer , Systems engineer and/or Software Engineer</a> internships or fulltime job. |
-
-<div style="text-align:center;">
-  <img src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png" alt="3D Animation Banner">
-  <h1 style="text-align:center;">Hello, my name is Jeremy Escobar</h1>
-  <h3 style="text-align:center;">Computer/Electrical Engineer</h3>
-  <div style="display: flex; justify-content: center;">
-    <p style="margin-right: 10px;">
-      <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162">
-    </p>
-    <p style="margin-right: 10px;">
-      <img src="https://img.shields.io/github/stars/jge162?style=social" alt="GitHub User's stars">
-    </p>
-    <p>
-      <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
-    </p>
-  </div>
-</div>
-
-- Currently I am working on certification through [Linkedin](https://linkedin.com/) for Javascript.
-
-- In addition, I am learning [Java and SQL](https://udemy.com/).
-
-- I’m looking for an entry level [Embedded software, Hardware/Electrical engineer, Firmware engineer, Systems engineer and/or Software Engineer](https://jobs.com/) internships or fulltime job.
-
+- I’m looking for an entry level <a href="https://jobs.com/">Embedded software, Hardware/Electrical engineer, Systems engineer and/or Software Engineer</a> internships or fulltime job. |
 
 | Github Stats | GitHub Community |
 | -------- | -------- |
