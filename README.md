@@ -10,19 +10,11 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/jge162?style=social)
 <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 
-- Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> for Javascript.
+| - Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> for Javascript.
 
 - In addition, I am learing <a href="https://udemy.com/">Java and SQL</a>.
 
-- I’m looking for an entry level <a href="https://jobs.com/">Embedded software, Hardware/Electrical engineer, Firmware engineer , Systems engineer and/or Software Engineer</a> internships or fulltime job.
-
-<div style="background-color: #f2f2f2; padding: 20px;">
-Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> for Javascript.
-<br><br>
-In addition, I am learning <a href="https://udemy.com/">Java and SQL</a>.
-<br><br>
-I’m looking for an entry level <a href="https://jobs.com/">Embedded software, Hardware/Electrical engineer, Firmware engineer , Systems engineer and/or Software Engineer</a> internships or fulltime job.
-</div>
+- I’m looking for an entry level <a href="https://jobs.com/">Embedded software, Hardware/Electrical engineer, Firmware engineer , Systems engineer and/or Software Engineer</a> internships or fulltime job. |
 
 
 | Github Stats | GitHub Community |
