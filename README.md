@@ -71,10 +71,5 @@ jobs:
       # and I found nothing in the Github marketplace
       # for Verilog that was useful.
 ```
-<h3 align="left">GitHub <a href="https://github.com/orgs/community/discussions">Community:</a></h3>
-
-<a href="https://github.com/orgs/community/discussions">
-  <img width="300" alt="Screenshot 2023-02-13 at 5 26 06 PM" src="https://user-images.githubusercontent.com/31228460/219539977-8fc444a5-08d7-4bb6-8a33-ac388789bcf1.png">
-</a>
 
 
