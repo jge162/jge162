@@ -18,8 +18,8 @@
 
 <div style="text-align:center">
   <img src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png" alt="3D Animation Banner">
-  <h1>Hello, my name is Jeremy Escobar</h1>
-  <h3>Computer/Electrical Engineer</h3>
+  <h1>align="center">Hello, my name is Jeremy Escobar</h1>
+  <h3>align="center">Computer/Electrical Engineer</h3>
   <div style="display: flex; justify-content: center;">
     <p style="margin-right: 10px;">
       <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162">
