@@ -63,3 +63,19 @@ jobs:
 <a href="https://github.com/orgs/community/discussions">
   <img width="300" alt="Screenshot 2023-02-13 at 5 26 06 PM" src="https://user-images.githubusercontent.com/31228460/219539977-8fc444a5-08d7-4bb6-8a33-ac388789bcf1.png">
 </a>
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <h3 align="left">GitHub Streaks:</h3>
+    <a href="http://www.github.com/jge162">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jge162&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    </a>
+  </div>
+  
+  <div>
+    <h3 align="left">GitHub <a href="https://github.com/orgs/community/discussions">Community:</a></h3>
+    <a href="https://github.com/orgs/community/discussions">
+      <img width="300" alt="Screenshot 2023-02-13 at 5 26 06 PM" src="https://user-images.githubusercontent.com/31228460/219539977-8fc444a5-08d7-4bb6-8a33-ac388789bcf1.png">
+    </a>
+  </div>
+</div>
