@@ -10,8 +10,6 @@
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
-<img width="300" alt="Screenshot 2023-02-13 at 5 26 06 PM" src="https://user-images.githubusercontent.com/31228460/219539977-8fc444a5-08d7-4bb6-8a33-ac388789bcf1.png">
-
 - Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> for Javascript.
 
 - In addition, I am learing <a href="https://udemy.com/">Java and SQL</a>.
@@ -27,6 +25,10 @@
 <a href="https://github.com/marketplace/actions/create-release-on-close" align="left"> create-release,</a>
 <a href="https://github.com/marketplace/actions/verilog-compiler" align="left"> verilog-compiler</a>
 </h3>
+
+| Github Stats | GitHub Community |
+| -------- | -------- |
+| ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=jge162&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) <br> <img width="491" alt="Screenshot 2023-01-28 at 1 31 13 AM" src="https://user-images.githubusercontent.com/31228460/215258739-6ac0360c-db14-439f-8675-f4dcd7ea8e0e.png"> | [<img width="300" alt="Screenshot 2023-02-13 at 5 26 06 PM" src="https://user-images.githubusercontent.com/31228460/219539977-8fc444a5-08d7-4bb6-8a33-ac388789bcf1.png">](https://github.com/orgs/community/discussions?discussions_q=is%3Aunanswered&page=2) |
 
 ```yaml
 name: Python Action, create-release, verilog-compiler
