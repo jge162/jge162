@@ -24,8 +24,7 @@
 
 <h3 align="left">"Link to some of my custom GitHub Action Workflows" -> <a href="https://gist.github.com/jge162">GIST's</a></h3>
 <a href="https://gist.github.com/jge162">
-  <img width="200" alt="Screenshot 2023-02-13 at 5 07 49 PM" src="https://user-images.githubusercontent.com/31228460/218441875-80867815-8e71-4dc7-9205-8bb995f3ccde.png">
-</a>
+<img width="200" alt="Screenshot 2023-02-13 at 5 07 49 PM" src="https://user-images.githubusercontent.com/31228460/218441875-80867815-8e71-4dc7-9205-8bb995f3ccde.png"></a>
 
 
 <h3 align="left">"Link to GitHub Marketplace Actions I have created" -> <a href="https://github.com/marketplace/actions/python-action">Python-workflows,</a><a href="https://github.com/marketplace/actions/create-release-on-close"> create-release,</a><a href="https://github.com/marketplace/actions/verilog-compiler"> verilog-compiler</a>
@@ -68,5 +67,5 @@ jobs:
 ```
 <h3 align="left">GitHub <a href="https://github.com/orgs/community/discussions">Community:</a></h3>
 
-<img width="293" alt="Screenshot 2023-02-16 at 3 08 11 PM" src="https://user-images.githubusercontent.com/31228460/219539977-8fc444a5-08d7-4bb6-8a33-ac388789bcf1.png">
+<a href="https://github.com/orgs/community/discussions> <img width="293" alt="Screenshot 2023-02-16 at 3 08 11 PM" src="https://user-images.githubusercontent.com/31228460/219539977-8fc444a5-08d7-4bb6-8a33-ac388789bcf1.png"></a>
 
