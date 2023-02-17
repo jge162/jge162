@@ -16,12 +16,12 @@
 
 - I’m looking for an entry level <a href="https://jobs.com/">Embedded software, Hardware/Electrical engineer, Firmware engineer , Systems engineer and/or Software Engineer</a> internships or fulltime job.
 
-<div style="border: 1px solid #ccc; padding: 10px;">
+<div style="background-color: #f2f2f2; padding: 20px;">
 Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> for Javascript.
-
-- In addition, I am learing <a href="https://udemy.com/">Java and SQL</a>.
-
-- I’m looking for an entry level <a href="https://jobs.com/">Embedded software, Hardware/Electrical engineer, Firmware engineer , Systems engineer and/or Software Engineer</a> internships or fulltime job.
+<br><br>
+In addition, I am learning <a href="https://udemy.com/">Java and SQL</a>.
+<br><br>
+I’m looking for an entry level <a href="https://jobs.com/">Embedded software, Hardware/Electrical engineer, Firmware engineer , Systems engineer and/or Software Engineer</a> internships or fulltime job.
 </div>
 
 
