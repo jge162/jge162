@@ -11,14 +11,15 @@
 </div>
 
 <div style="display: flex;">
-  <p align="left">
+  <p align="left" style="margin: 0; padding: 0;">
     <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" />
   </p>
-  <img src="https://img.shields.io/github/stars/jge162?style=social" alt="GitHub User's stars">
-  <p align="left">
+  <img src="https://img.shields.io/github/stars/jge162?style=social" alt="GitHub User's stars" style="margin: 0; padding: 0;">
+  <p align="left" style="margin: 0; padding: 0;">
     <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
   </p>
 </div>
+
 
 
 - Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> for Javascript.
