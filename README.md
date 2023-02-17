@@ -42,14 +42,14 @@ jobs:
     steps:
     - name: Python Action
       uses: jge162/Action-workflows@1.0.1
-      # multiple purpose GitHub Action.
+      # Multi-purpose GitHub Action
 
     - name: create-release-on-close
       uses: jge162/create-release@v2.1.1
-      # created to streamline, releases.
+      # This actions was created to help streamline
+      # releases through GitHub Action.
       
     - name: Verilog Compiler
       uses: jge162/verilog_compiler@1.0.0
-      # created because I have done Verilog in the past
-      # and I found nothing in the Github marketplace
-      # for Verilog that was useful.
+      # I creates this because I have experience with Verilog and
+      # found nothing useful in the Github marketplace for it.
