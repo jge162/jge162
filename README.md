@@ -3,12 +3,10 @@
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center">Computer/Electrical Engineer </> </h3>
 
+<div style="display: flex;">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> 
-</p>
-
-<div style="display: flex;">
-  <img src="https://img.shields.io/github/stars/jge162?style=social" alt="GitHub User's stars">
+</p><img src="https://img.shields.io/github/stars/jge162?style=social" alt="GitHub User's stars">
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
