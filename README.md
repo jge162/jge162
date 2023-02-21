@@ -1,4 +1,6 @@
+<kbd>
 <img src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png" alt="3D Animation Banner" width="1000">
+</kbd>
 
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center">Computer/Electrical Engineer </> </h3>
