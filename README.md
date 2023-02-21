@@ -2,27 +2,6 @@
 <img src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png" alt="3D Animation Banner" width="1000">
 </kbd>
 
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Title of the document</title>
-    <style>
-      img {
-        width: 250px;
-        -webkit-filter: drop-shadow(5px 5px 5px #666666);
-        filter: drop-shadow(5px 5px 5px #666666);
-      }
-    </style>
-  </head>
-  <body>
-    <h2>Drop Shadow on PNG image</h2>
-    <img src="/build/images/w3docs-logo-black.png" alt="w3docs logo">
-  </body>
-</html>
-
-
-
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center">Computer/Electrical Engineer </> </h3>
 
