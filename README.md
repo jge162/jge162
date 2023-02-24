@@ -54,5 +54,5 @@ jobs:
 
 #!/bin/bash
 
-thanks="Thanks for visiting my GitHub"
+thanks = "Thanks for visiting my GitHub"
 echo " $thanks "
