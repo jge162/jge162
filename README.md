@@ -39,7 +39,7 @@ jobs:
 
     steps:
     - name: Python Action
-      uses: jge162/Action-workflows@1.0.1
+      uses: jge162/Action-workflows@1.1.1
       # Multi-purpose GitHub Action
 
     - name: create-release-on-close
