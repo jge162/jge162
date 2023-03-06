@@ -43,7 +43,7 @@ jobs:
       # Multi-purpose GitHub Action
 
     - name: create-release-on-close
-      uses: jge162/create-release@v2.1.1
+      uses: jge162/create-release@v2.1.0
       # This actions was created to help streamline
       # releases through GitHub Action.
       
