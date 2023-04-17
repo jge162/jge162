@@ -5,7 +5,7 @@
 </kbd>
 
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
-<h3 align="center"><b>Computer Engineer</b>, creating digital solutions one line of code at a time</h3>
+<h3 align="center"><b>Computer Engineer</b>, <span style="font-size: 14px;">creating digital solutions one line of code at a time</span></h3>
 
 <div style="display: flex;">
 <p align="left"> 
