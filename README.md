@@ -6,7 +6,7 @@
 
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center"><b>Computer Engineer</b>, <span style="font-size: 14px;">creating digital solutions one line of code at a time</span></h3>
-### **Computer Engineer**, creating digital solutions <sub><sup>one line of code at a time</sup></sub>
+### Computer Engineer, <sub><sup>creating digital solutions one line of code at a time</sup></sub>
 
 
 <div style="display: flex;">
