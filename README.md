@@ -8,6 +8,7 @@
 <h3 align="center"><b>Computer Engineer</b>, <span style="font-size: 24px;"><sub><sup>creating digital solutions one line of code at a time!</sup></sub>
 </span></h3>
 
+<h3 align="center"><a href="https://jge162.github.io/">Website</a></h3>
 
 <div style="display: flex;">
 <p align="left"> 
