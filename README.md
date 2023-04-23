@@ -7,7 +7,6 @@
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center"><b>Computer Engineer</b>, <span style="font-size: 24px;"><sub><sup>creating digital solutions one line of code at a time!</sup></sub>
 </span></h3>
-[Website](react-jge162.vercel.app)
 
 <div style="display: flex;">
 <p align="left"> 
