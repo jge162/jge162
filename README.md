@@ -1,6 +1,6 @@
 <kbd>
 <a href="https://github.com/jge162">
-  <img src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png" alt="3D Animation Banner" width="1000">
+  <img src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png" width="1000">
 </a>
 </kbd>
 
