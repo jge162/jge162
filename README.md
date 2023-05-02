@@ -4,6 +4,9 @@
 </a>
 </kbd>
 
+![download](https://user-images.githubusercontent.com/31228460/235572236-a7f1e0dd-b6cc-4163-91e2-7de91718c68f.jpeg)
+
+
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center"><b>Computer Engineer</b>, <span style="font-size: 24px;"><sub><sup>creating digital solutions one line of code at a time!</sup></sub>
 </span></h3>
