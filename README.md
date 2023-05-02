@@ -1,6 +1,6 @@
 <kbd>
 <a href="https://github.com/jge162">
-  <img src="https://user-images.githubusercontent.com/31228460/235572236-a7f1e0dd-b6cc-4163-91e2-7de91718c68f.jpeg" width="1000" height="400">
+  <img src="https://user-images.githubusercontent.com/31228460/235572787-78976805-f239-4ee8-8222-a9af50b86cbe.jpg" width="1000" height="400">
 </a>
 </kbd>
 
