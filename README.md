@@ -1,3 +1,9 @@
+<kbd>
+<a href="https://github.com/jge162">
+  <img src="https://user-images.githubusercontent.com/31228460/235573041-f38ea0e3-5660-402d-ad2e-f8d84f4124f3.png" width="900" >
+</a>
+</kbd>
+
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center"><b>Computer Engineer</b>, <span style="font-size: 24px;"><sub><sup>creating digital solutions one line of code at a time!</sup></sub>
 </span></h3>
