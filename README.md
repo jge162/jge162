@@ -1,10 +1,9 @@
 <kbd>
 <a href="https://github.com/jge162">
-  <img src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png" width="1000">
+  <img src="https://user-images.githubusercontent.com/31228460/235572236-a7f1e0dd-b6cc-4163-91e2-7de91718c68f.jpeg" width="1000">
 </a>
 </kbd>
 
-![download](https://user-images.githubusercontent.com/31228460/235572236-a7f1e0dd-b6cc-4163-91e2-7de91718c68f.jpeg)
 
 
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
