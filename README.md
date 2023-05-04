@@ -24,36 +24,3 @@
 <a href="https://github.com/marketplace/actions/create-release-on-close" align="left"> create-release,</a>
 <a href="https://github.com/marketplace/actions/verilog-compiler" align="left"> verilog-compiler</a>
 </h3>
-
-```yaml
-name: Python Action, create-release, verilog-compiler
-
-on:
-  schedule:
-  - cron: '0 0 * * 6' 
-  # action will run once a week on Saturday at 12:00 am 
-  workflow_dispatch:
-
-jobs:
-  Python-analyze:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Python Action
-      uses: jge162/Action-workflows@2.1.0
-      # Multi-purpose GitHub Action
-
-    - name: create-release-on-close
-      uses: jge162/create-release@2.2.1
-      # This actions was created to help streamline
-      # releases through GitHub Action.
-      
-    - name: Verilog Compiler
-      uses: jge162/verilog_compiler@1.0.0
-      # I created this because I have experience with Verilog and
-      # found nothing useful in the Github marketplace for it.
-
-#!/bin/bash
-
-thanks = "Thanks for visiting my GitHub"
-echo " $thanks "
