@@ -24,3 +24,11 @@
 <a href="https://github.com/marketplace/actions/create-release-on-close" align="left"> create-release,</a>
 <a href="https://github.com/marketplace/actions/verilog-compiler" align="left"> verilog-compiler</a>
 </h3>
+
+
+```yaml
+
+#!/bin/bash
+
+thanks = "Thanks for visiting my GitHub"
+echo " $thanks "
