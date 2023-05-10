@@ -4,6 +4,12 @@
 </a>
 </kbd>
 
+<kbd>
+<a href="https://github.com/jge162">
+  <img src="https://github.com/jge162/jge162/assets/31228460/5dbb3e8f-5edf-4a3b-bdc3-843b1bf17ba7" width="900" >
+</a>
+</kbd>
+
 <h1 align="center">Hello, my name is Jeremy Escobar</h1>
 <h3 align="center"><b>Computer Engineer</b>, <span style="font-size: 24px;"><sub><sup>creating digital solutions one line of code at a time!</sup></sub>
 </span></h3>
