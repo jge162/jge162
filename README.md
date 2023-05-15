@@ -21,13 +21,13 @@
 
 <h3 align="left">"Link to GitHub Marketplace Actions I have created" 
 <br></br>
-<a href="https://github.com/marketplace/actions/python-action" align="left">Python-Workflows,</a>
+<a href="https://github.com/marketplace/actions/python-action" align="left">Python-Workflows</a>
 <br></br>
-<a href="https://github.com/marketplace/actions/create-release-on-close" align="left"> Create-Release,</a>
+<a href="https://github.com/marketplace/actions/create-release-on-close" align="left">Create-Release</a>
 <br></br>
-<a href="https://github.com/marketplace/actions/verilog-compiler" align="left"> Verilog-Compiler</a>
+<a href="https://github.com/marketplace/actions/verilog-compiler" align="left">Verilog-Compiler</a>
 <br></br>
-<a href="https://github.com/marketplace/actions/action-runscript" align="left"> and Action-RunScript</a>
+<a href="https://github.com/marketplace/actions/action-runscript" align="left">Action-RunScript</a>
 </h3>
 
 
