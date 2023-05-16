@@ -6,7 +6,7 @@
 </div>
 <kbd>
 <a href="https://github.com/jge162">
-  <img src="https://github.com/jge162/jge162/assets/31228460/966617ce-3fa3-4a43-86f2-a5543dd3eabb" width="841" >
+  <img src="https://github.com/jge162/jge162/assets/31228460/966617ce-3fa3-4a43-86f2-a5543dd3eabb" width="842" >
 </a>
 </kbd>
 
