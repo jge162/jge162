@@ -23,8 +23,6 @@
 <br></br>
 <a href="https://github.com/marketplace/actions/action-runscript" align="left">Action-RunScript@2.0.0</a>
 <br></br>
-<a href="https://github.com/marketplace/actions/python-action" align="left">Python-Action@2.1.0</a>
-<br></br>
 <a href="https://github.com/marketplace/actions/create-release-on-close" align="left">Create-Release@2.1.1</a>
 <br></br>
 <a href="https://github.com/marketplace/actions/verilog-compiler" align="left">Verilog-Compiler@1.0.0</a>
