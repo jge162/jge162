@@ -3,13 +3,14 @@
   <img src="https://github.com/jge162/jge162/assets/31228460/966617ce-3fa3-4a43-86f2-a5543dd3eabb" width="842" >
 </a>
 </kbd>
-
+<br></br>
 <div style="display: flex;">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> 
 </p><img src="https://img.shields.io/github/stars/jge162?style=social" alt="GitHub User's stars">
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
+<br></br>
 
 | <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="150"> | Hello, my name is Jeremy Escobar, **[Computer Engineer '㉓](https://github.com/jge162)**, <sub><sup> Solving complex problems with simple code!</sup></sub> |
 | :---: | :--- |
