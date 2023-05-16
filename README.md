@@ -17,7 +17,7 @@
 | -------- | -------- |
 | Github Stats | GitHub Community |
 | ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=jge162&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) <br> <img width="491" alt="Screenshot 2023-01-28 at 1 31 13 AM" src="https://user-images.githubusercontent.com/31228460/215258739-6ac0360c-db14-439f-8675-f4dcd7ea8e0e.png"> | [<img width="300" alt="Screenshot 2023-02-13 at 5 26 06 PM" src="https://user-images.githubusercontent.com/31228460/219539977-8fc444a5-08d7-4bb6-8a33-ac388789bcf1.png">](https://github.com/orgs/community/discussions?discussions_q=is%3Aunanswered) |
-| <h3 style="line-height: 1.5;">[GitHub Actions I have created in 2022-23](https://github.com/jge162?tab=repositories)</h3> | Marketplace link |
+| [GitHub Actions I have created in 2022-23](https://github.com/jge162?tab=repositories) | Marketplace link |
 | Create-Release | [Click here](https://github.com/marketplace/actions/create-release-on-close)|
 | Action-RunScript | [Click here](https://github.com/marketplace/actions/action-runscript) |
 | Verilog-Compiler| [Click here](https://github.com/marketplace/actions/verilog-compiler) |
