@@ -21,12 +21,11 @@
 | Action-RunScript | [Click here](https://github.com/marketplace/actions/action-runscript) |
 | Verilog-Compiler| [Click here](https://github.com/marketplace/actions/verilog-compiler) |
 | Action-Workflows | [Click here](https://github.com/marketplace/actions/python-action) |
-|```yaml
+
+
+```yaml
 
 #!/bin/bash
 
 thanks="Thanks for visiting my GitHub"
 echo " $thanks "
-```
-
-|
