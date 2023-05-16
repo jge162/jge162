@@ -4,9 +4,14 @@
 </a>
 </kbd>
 
-<h1 align="center">Hello, my name is Jeremy Escobar</h1>
-<h3 align="center"><b>Computer Engineer'㉓</b>, <span style="font-size: 40px;"><sub><sup>Solving complex problems with simple code!</sup></sub>
-</span></h3>
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" style="width: 100px; height: 100px;">
+    <div style="text-align: center;">
+        <h1>Hello, my name is Jeremy Escobar</h1>
+        <h3><b>Computer Engineer'㉓</b>, <span style="font-size: 40px;"><sub><sup>Solving complex problems with simple code!</sup></sub></span></h3>
+    </div>
+</div>
+
 
 <div style="display: flex;">
 <p align="left"> 
