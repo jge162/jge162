@@ -13,7 +13,6 @@
 <br></br>
 
 | <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="150"> | Hello, my name is Jeremy Escobar, 
-<br></br>
 **[Computer Engineer '㉓](https://github.com/jge162)**, <sub><sup> Solving complex problems with simple code!</sup></sub> |
 | :---: | :--- |
 | Github Stats | GitHub Community |
