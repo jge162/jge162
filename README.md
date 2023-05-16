@@ -4,7 +4,7 @@
 </a>
 </kbd>
 
-| ![logo1](https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8) | Hello, my name is Jeremy Escobar |
+| ![logo1](https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8) width="400" | Hello, my name is Jeremy Escobar |
 | :---: | :--- |
 | | **Computer Engineer'㉓**, <sub><sup>Solving complex problems with simple code!</sup></sub> |
 
