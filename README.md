@@ -4,20 +4,8 @@
 </a>
 </kbd>
 
-| <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="150"> | Hello, my name is Jeremy Escobar |
+| <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="150"> | Hello, my name is Jeremy Escobar, **Computer Engineer'㉓**, <sub><sup>Solving complex problems with simple code!</sup></sub> |
 | :---: | :--- |
-| | **Computer Engineer'㉓**, <sub><sup>Solving complex problems with simple code!</sup></sub> |
-
-
-<kbd>
-<a href="https://github.com/jge162">
-  <img src="https://github.com/jge162/jge162/assets/31228460/966617ce-3fa3-4a43-86f2-a5543dd3eabb" width="900">
-</a>
-</kbd>
-
-| <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="150"> | Hello, my name is Jeremy Escobar |
-| :---: | :--- |
-| | **Computer Engineer'㉓**, <sub><sup>Solving complex problems with simple code!</sup></sub> |
 
 
 
