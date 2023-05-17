@@ -19,6 +19,7 @@
 | Action-RunScript | [Click here](https://github.com/marketplace/actions/action-runscript) |
 | Verilog-Compiler| [Click here](https://github.com/marketplace/actions/verilog-compiler) |
 | Action-Workflows | [Click here](https://github.com/marketplace/actions/python-action) |
+| Learn git commands | [git commands.com](https://git-commands-chi.vercel.app/) |
 
 
 ```yaml
