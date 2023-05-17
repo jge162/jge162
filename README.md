@@ -19,7 +19,7 @@
 | Action-RunScript | [Click here](https://github.com/marketplace/actions/action-runscript) |
 | Verilog-Compiler| [Click here](https://github.com/marketplace/actions/verilog-compiler) |
 | Action-Workflows | [Click here](https://github.com/marketplace/actions/python-action) |
-| <img src="https://github.com/jge162/jge162/assets/31228460/edb251bb-6518-4015-a037-b0887225c2c5" alt="logo1" width="60"> | [Learn git commands on a website I created here! Repo is below too! '㉓](https://git-commands-chi.vercel.app/) |
+| <img src="https://github.com/jge162/jge162/assets/31228460/edb251bb-6518-4015-a037-b0887225c2c5" alt="logo1" width="100"> | [Learn git commands on a website I created here! Repo is below too! '㉓](https://git-commands-chi.vercel.app/) |
 
 
 ```yaml
