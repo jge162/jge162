@@ -7,8 +7,8 @@
 
 ---
 
-| <h2>👋 I'm Jeremy Escobar <div align="center"><b>[Computer Engineer](https://jeremyescobar.live/)</b></div></h2> Solving complex problems with simple code! |
-| -------- | -------- |
+| <h2>👋 I'm Jeremy Escobar <div align="center"><b>[Computer Engineer](https://jeremyescobar.live/)</b></div></h2> Solving complex problems with simple code! | 
+| -------- |
 
 
 ```bash 
