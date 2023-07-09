@@ -10,9 +10,18 @@
 | <h2>👋 I'm Jeremy Escobar <div align="center"><b>[Computer Engineer](https://jeremyescobar.live/)</b></div></h2> Solving complex problems with simple code! | <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="150"> |
 | -------- | -------- |
 
-```Python
-
+```bash 
 #!/bin/bash
 
-thanks="Thanks for visiting my GitHub"
-echo " $thanks "
+echo "Welcome to my GitHub repository!"
+
+# Check if it's your lucky day
+lucky=$((RANDOM % 2))
+if [[ $lucky -eq 0 ]]; then
+  echo "You've found the right repository!"
+else
+  echo "Oops!"
+fi
+
+echo "Thank you for visiting my GitHub!"
+```
