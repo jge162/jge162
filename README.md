@@ -9,3 +9,22 @@
 | ------------------------------------ | -------- |
 
 
+<div align="center">
+    <table style="width: 100%;">
+        <tr>
+            <td style="width: 70%;">
+                <h2>👋 I'm Jeremy Escobar</h2>
+                <div align="center">
+                    <b><a href="https://jeremyescobar.live/">Computer Engineer</a></b>
+                </div>
+                <p>Solving complex problems with simple code!</p>
+            </td>
+            <td style="width: 30%;" align="center">
+                <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="125">
+                <p>B.S., CpE</p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
