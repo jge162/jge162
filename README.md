@@ -9,20 +9,17 @@
 | -------- | -------- |
 
 
-<div align="center">
+| ```python
+print("Welcome to my GitHub repository!")
 
-## 👋 I'm Jeremy Escobar
-**[Computer Engineer](https://jeremyescobar.live/)**
+lucky = random.randint(0, 1)
+if lucky == 0:
+    print("You've found the right repository!")
+else:
+    print("Thank you for visiting my GitHub!")
+``` | test text |
+| --- | --- |
 
-Solving complex problems with simple code!
-
-<img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="125">
-
-B.S., CpE
-
-</div>
-
----
 
 ```python
 print("Welcome to my GitHub repository!")
