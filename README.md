@@ -10,6 +10,17 @@
 | <h2>👋 I'm Jeremy Escobar <div align="center"><b>[Computer Engineer](https://jeremyescobar.live/)</b></div></h2> Solving complex problems with simple code! | <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="150"> |
 | -------- | -------- |
 
+
+
+<div align="center">
+  <h2>👋 I'm Jeremy Escobar <b>[Computer Engineer](https://jeremyescobar.live/)</b></h2>
+  <p>Solving complex problems with simple code!</p>
+  <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="150">
+</div>
+
+
+
+
 ```bash 
 #!/bin/bash
 
