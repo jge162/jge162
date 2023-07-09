@@ -6,7 +6,7 @@
 </div><br>
 
 
-<div style="border: 1px solid black; padding: 10px;">
+<div style="border: 1px solid black; padding: 10px; display: inline-block;">
     <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/a4e14894-bd5b-44b3-9e54-9cf08cd71db1">
 </div>
 
