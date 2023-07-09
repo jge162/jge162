@@ -11,3 +11,11 @@
 
 
 ![Neutral Creative Professional LinkedIn Article Cover Image](https://github.com/jge162/jge162/assets/31228460/ef806b3b-52c6-4f54-9b0e-87c2cca2b6f9)
+
+```Python
+print("Welcome to my GitHub repository!")
+
+lucky = random.randint(0, 1)
+if (lucky == 0)
+print("You've found the right repository!")
+```
