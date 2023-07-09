@@ -12,6 +12,7 @@
 </div>
 </kbd>
 
+![image (1)](https://github.com/jge162/jge162/assets/31228460/76225a0b-829d-4030-88c7-de2bb9b59e0e)
 
 
 ```Python
