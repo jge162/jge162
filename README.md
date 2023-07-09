@@ -5,12 +5,8 @@
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div><br>
 
-| <h2>👋 I'm Jeremy Escobar <div align="center"><b>[Computer Engineer](https://jeremyescobar.live/)</b></div></h2> Solving complex problems with simple code! | <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="125"> <p>B.S., CpE</p> |
-| --- | --- |
-| print("Welcome to my GitHub repository!")<br><br>lucky = random.randint(0, 1)<br>if lucky == 0:<br>&nbsp;&nbsp;&nbsp;&nbsp;print("You've found the right repository!")<br>else:<br>&nbsp;&nbsp;&nbsp;&nbsp;print("Thank you for visiting my GitHub!") |  |
+<img width="891" alt="Screenshot 2023-07-09 at 3 42 48 PM" src="https://github.com/jge162/jge162/assets/31228460/08d96f68-b587-4fd5-847a-1e230c19c02d">
 
-
-![Neutral Creative Professional LinkedIn Article Cover Image](https://github.com/jge162/jge162/assets/31228460/ef806b3b-52c6-4f54-9b0e-87c2cca2b6f9)
 
 ```Python
 print("Welcome to my GitHub repository!")
