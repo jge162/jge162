@@ -22,4 +22,6 @@ print("Welcome to my GitHub repository!")
 lucky = random.randint(0, 1)
 if lucky == 0:
     print("You've found the right repository!")
+else:
+    print("Thank you for visiting my GitHub.")
 ```
