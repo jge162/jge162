@@ -5,14 +5,21 @@
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div><br>
 
-| <h2>👋 I'm Jeremy Escobar <div align="center"><b>[Computer Engineer](https://jeremyescobar.live/)</b></div></h2> Solving complex problems with simple code! |  <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="125"> <p>B.S., CpE</p> |
-| -------- | -------- |
 
-```python
+<kbd>
+<div style="border: 1px solid black; padding: 10px; display: inline-block;">
+    <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/a4e14894-bd5b-44b3-9e54-9cf08cd71db1">
+</div>
+</kbd>
+
+
+
+```Python
+import random
+
 print("Welcome to my GitHub repository!")
 
 lucky = random.randint(0, 1)
-if lucky == 0:
-    print("You've found the right repository!")
-else:
-    print("Thank you for visiting my GitHub!")
+if (lucky == 0)
+print("You've found the right repository!")
+```
