@@ -11,15 +11,16 @@
 | -------- | -------- |
 
 
-```bash 
-echo "Welcome to my GitHub repository!"
+```Python 
+import random
 
-lucky=$((RANDOM % 2))
-if [[ $lucky -eq 0 ]]; then
-  echo "You've found the right repository!"
-else
-  echo "Oops!"
-fi
+print("Welcome to my GitHub repository!")
 
-echo "Thank you for visiting my GitHub!"
+lucky = random.randint(0, 1)
+if lucky == 0:
+    print("You've found the right repository!")
+else:
+    print("Oops!")
+
+print("Thank you for visiting my GitHub!")
 ```
