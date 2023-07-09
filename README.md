@@ -7,36 +7,3 @@
 
 | <h2>👋 I'm Jeremy Escobar <div align="center"><b>[Computer Engineer](https://jeremyescobar.live/)</b></div></h2> Solving complex problems with simple code! |  <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="125"> <p>B.S., CpE</p> |
 | -------- | -------- |
-
-
-| ```python
-print("Welcome to my GitHub repository!")
-
-lucky = random.randint(0, 1)
-if lucky == 0:
-    print("You've found the right repository!")
-else:
-    print("Thank you for visiting my GitHub!")
-``` | test text |
-| --- | --- |
-
-
-```python
-print("Welcome to my GitHub repository!")
-
-lucky = random.randint(0, 1)
-if lucky == 0:
-    print("You've found the right repository!")
-else:
-    print("Thank you for visiting my GitHub!")
-
-
-```Python 
-print("Welcome to my GitHub repository!")
-
-lucky = random.randint(0, 1)
-if lucky == 0:
-    print("You've found the right repository!")
-else:
-    print("Thank you for visiting my GitHub!")
-
