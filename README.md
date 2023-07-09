@@ -13,11 +13,12 @@
 ## 👋 I'm Jeremy Escobar
 **[Computer Engineer](https://jeremyescobar.live/)**
 
-Solving complex problems with simple code!
-
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center;">
+    <p>Solving complex problems with simple code!</p>
     <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="125">
-    <p>B.S., CpE</p>
 </div>
 
+B.S., CpE
+
 </div>
+
