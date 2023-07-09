@@ -5,7 +5,7 @@
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div><br>
 
-<img width="891" alt="Screenshot 2023-07-09 at 3 42 48 PM" src="https://github.com/jge162/jge162/assets/31228460/08d96f68-b587-4fd5-847a-1e230c19c02d">
+<img width="887" alt="Screenshot 2023-07-09 at 3 43 35 PM" src="https://github.com/jge162/jge162/assets/31228460/f4314f12-8eac-4247-8340-09259f321cff">
 
 
 ```Python
