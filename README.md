@@ -11,15 +11,6 @@
 | -------- | -------- |
 
 
-<kbd>
-<div align="center">
-  <h2>👋 I'm Jeremy Escobar <b><a href="https://jeremyescobar.live/">Computer Engineer</a></b></h2>
-  <p>Solving complex problems with simple code!</p>
-  <img src="https://github.com/jge162/jge162/assets/31228460/b0b07008-9522-4761-9905-e22ad8aa83c8" alt="logo1" width="150">
-</div>
-</kbd>
-
-
 ```bash 
 #!/bin/bash
 
