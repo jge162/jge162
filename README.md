@@ -11,6 +11,14 @@
 | -------- | -------- |
 
 
+<kbd>
+<div align="center">
+  <h2>👋 I'm Jeremy Escobar <b><a href="https://jeremyescobar.live/">Computer Engineer</a></b></h2>
+  <p>Solving complex problems with simple code!</p>
+</div>
+</kbd>
+
+
 ```bash 
 #!/bin/bash
 
