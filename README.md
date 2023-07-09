@@ -12,11 +12,8 @@
 
 
 ```bash 
-#!/bin/bash
-
 echo "Welcome to my GitHub repository!"
 
-# Check if it's your lucky day
 lucky=$((RANDOM % 2))
 if [[ $lucky -eq 0 ]]; then
   echo "You've found the right repository!"
