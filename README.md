@@ -12,14 +12,4 @@
 </div>
 </kbd>
 
-
-
-```Python
-import random
-
-print("Welcome to my GitHub repository!")
-
-lucky = random.randint(0, 1)
-if (lucky == 0)
-print("You've found the right repository!")
-```
+<img width="534" alt="Screenshot 2023-07-13 at 2 01 57 AM" src="https://github.com/jge162/jge162/assets/31228460/46b67394-078b-4308-aa63-314ec93add7f">
