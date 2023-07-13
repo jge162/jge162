@@ -12,6 +12,4 @@
 </div>
 </kbd>
 
----
-
->Creating the future, one line of code at a time!
+>Creating the future, one line of code at a time! with 💙 by: [jermyiah](https://github.com/jge162)
