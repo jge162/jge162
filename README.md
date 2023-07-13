@@ -4,6 +4,7 @@
 </p><img src="https://img.shields.io/github/stars/jge162?style=social" alt="GitHub User's stars">
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div><br>
+<img width="1154" alt="Screenshot 2023-07-13 at 1 38 24 AM" src="https://github.com/jge162/jge162/assets/31228460/2dfbaad5-0e6f-4c74-a7e6-6d6b8f007d52">
 
 
 <kbd>
