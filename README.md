@@ -10,3 +10,5 @@
     <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/76225a0b-829d-4030-88c7-de2bb9b59e0e">  
 </div>
 </kbd>
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=jge162\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
