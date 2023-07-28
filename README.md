@@ -10,6 +10,3 @@
     <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/76225a0b-829d-4030-88c7-de2bb9b59e0e">  
 </div>
 </kbd>
-
-[![Jermyiah's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jge162\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/jge162/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-
