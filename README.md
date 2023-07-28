@@ -7,6 +7,6 @@
 
 <kbd>
 <div style="border: 1px solid black; padding: 10px; display: inline-block;">
-    <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/76225a0b-829d-4030-88c7-de2bb9b59e0e">
+    <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/76225a0b-829d-4030-88c7-de2bb9b59e0e">   <img width="491" alt="Screenshot 2023-01-28 at 1 31 13 AM" src="https://user-images.githubusercontent.com/31228460/215258739-6ac0360c-db14-439f-8675-f4dcd7ea8e0e.png">
 </div>
 </kbd>
