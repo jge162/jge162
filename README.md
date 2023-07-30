@@ -23,12 +23,12 @@
 #include <stdio.h>
 
 void welcome() {
-    printf("Hi! Welcome to my GitHub! 😄\n");
+    printf("Hi👋, Welcome! 😄\n");
 
     printf("My hobbies are:\n ");
     printf("- coding\n- off-roading\n- gaming\n");
 
-    printf("\nFeel free to explore my repositories.\n");
+    printf("\nFeel free to explore around\n");
     printf("Happy coding!\n");
 }
 
