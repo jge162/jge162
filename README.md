@@ -35,5 +35,5 @@ int main() {
 
 ```
 
->[!WARNING]\
+>[!NOTE]\
 >All repos Maintained with 💙 by [@Jermyiah™](https://github.com/jge162)
