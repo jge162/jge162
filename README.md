@@ -28,13 +28,11 @@ void welcome() {
 
 int main() {
     welcome();
+    //Contributions are Welcomed and Encouraged. 
     return 0;
 }
 
 ```
-
->[!NOTE]\
->Contributions are [Welcomed](https://github.com/jge162) and [Encouraged](https://github.com/jge162)!
 
 >[!WARNING]\
 >All repos Maintained with 💙 by [jermyiah](https://github.com/jge162)
