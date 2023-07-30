@@ -18,4 +18,4 @@
 >Contributions are welcome and invited!
 
 >[!WARNING]\
->Any Issues please let me know. Thanks.
+>All repos Designed with by [jermyiah](https://github.com/jge162)
