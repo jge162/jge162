@@ -34,9 +34,6 @@ void welcome_to_github() {
     }
 
     printf("\nFeel free to explore my repositories.\n");
-    printf("If you have any questions?\n");
-    printf("or want to collaborate\n");
-    printf("feel free to reach out!\n");
     printf("Happy coding!\n");
 }
 
