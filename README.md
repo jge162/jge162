@@ -19,22 +19,32 @@
 >[!NOTE]\
 >Contributions are welcomed and encouraged!
 
-```Python
-def welcome_to_github():
-    name = input("Hi there! What's your name? ")
-    print(f"Hi {name}! Welcome to my GitHub! 😄")
-    interests = ["coding", "off-roading", "gaming"]
+```CPP
+#include <stdio.h>
 
-    print(*[f"- {interest}" for interest in interests], sep='\n')
+void welcome_to_github() {
+    char name[100];
+    printf("Hi there! What's your name? ");
+    fgets(name, sizeof(name), stdin);
+    printf("Hi %s! Welcome to my GitHub! \U0001F604\n", name);
 
-    print("\nFeel free to explore my repositories.")
-    print("If you have any questions?")
-    print("or want to collaborate")
-    print("feel free to reach out!")
-    print("Happy coding!")
+    const char* interests[] = {"coding", "off-roading", "gaming"};
+    for (int i = 0; i < sizeof(interests) / sizeof(interests[0]); i++) {
+        printf("- %s\n", interests[i]);
+    }
 
-if __name__ == "__main__":
-    welcome_to_github()
+    printf("\nFeel free to explore my repositories.\n");
+    printf("If you have any questions?\n");
+    printf("or want to collaborate\n");
+    printf("feel free to reach out!\n");
+    printf("Happy coding!\n");
+}
+
+int main() {
+    welcome_to_github();
+    return 0;
+}
+
 ```
 
 >[!WARNING]\
