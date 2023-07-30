@@ -6,7 +6,7 @@
 </div><br>
 
 >[!IMPORTANT]\
->Welcome! To my personal GitHub
+>Welcome to my personal GitHub!
 
 <kbd>
 <div style="border: 1px solid black; padding: 10px; display: inline-block;">
