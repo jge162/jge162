@@ -37,4 +37,4 @@ if __name__ == "__main__":
 ```
 
 >[!WARNING]\
->All repos Designed with 💙 by [jermyiah](https://github.com/jge162).
+>All repos Designed with 💙 by [jermyiah](https://github.com/jge162) 🤙🏽
