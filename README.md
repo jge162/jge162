@@ -27,10 +27,11 @@ def welcome_to_github():
 
     print(*[f"- {interest}" for interest in interests], sep='\n')
 
-    print("\nFeel free to explore my projects and repositories.")
-    print("If you have any questions or want to collaborate")
+    print("\nFeel free to explore my repositories.")
+    print("If you have any questions?")
+    print("or want to collaborate")
     print("feel free to reach out!")
-    print("Happy coding and have a fantastic time on GitHub!")
+    print("Happy coding!")
 
 if __name__ == "__main__":
     welcome_to_github()
