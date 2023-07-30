@@ -17,7 +17,7 @@
 <br> <!-- Empty line -->
 
 >[!NOTE]\
->Contributions are welcomed and encouraged!
+>Contributions are ***Welcomed*** and ***encouraged***!
 
 ```CPP
 #include <stdio.h>
