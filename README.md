@@ -28,10 +28,10 @@ void welcome_to_github() {
     scanf("%99[^\n]", name);
     printf("Hi %s! Welcome to my GitHub! 😄\n", name);
 
-    const char* interests[] = {"coding", "off-roading", "gaming"};
-    for (int i = 0; i < 3; i++) {
-        printf("- %s\n", interests[i]);
-    }
+    printf("My hobbies are:");
+    printf("- coding\n");
+    printf("- off-roading\n");
+    printf("- gaming\n");
 
     printf("\nFeel free to explore my repositories.\n");
     printf("Happy coding!\n");
