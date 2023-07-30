@@ -25,6 +25,8 @@ def welcome_to_github():
     print(f"Hi {name}! Welcome to my GitHub! 😄")
     interests = ["embedded software design", "programming", "off-roading", "playing games"]
 
+    print(*[f"- {interest}" for interest in interests], sep='\n')
+
     print("\nFeel free to explore my projects and repositories.")
     print("If you have any questions or want to collaborate, feel free to reach out!")
     print("Happy coding and have a fantastic time on GitHub!")
