@@ -17,7 +17,7 @@
 <br> <!-- Empty line -->
 
 >[!NOTE]\
->Contributions are welcome and encouraged!
+>Contributions are welcomed and encouraged!
 
 ```Python
 def welcome_to_github():
