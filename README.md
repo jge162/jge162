@@ -19,17 +19,11 @@
 >[!NOTE]\
 >Contributions are welcome and invited!
 
->[!WARNING]\
->All repos Designed with 💙 by [jermyiah](https://github.com/jge162)
-
 ```Python
 def welcome_to_github():
     name = input("Hi there! What's your name? ")
     print(f"Hi {name}! Welcome to my GitHub! 😄")
     interests = ["embedded software design", "programming", "off-roading", "playing games"]
-
-    print("I'm an engineer who enjoys:")
-    print(*[f"- {interest}" for interest in interests], sep='\n')
 
     print("\nFeel free to explore my projects and repositories.")
     print("If you have any questions or want to collaborate, feel free to reach out!")
@@ -38,3 +32,6 @@ def welcome_to_github():
 if __name__ == "__main__":
     welcome_to_github()
 ```
+
+>[!WARNING]\
+>All repos Designed with 💙 by [jermyiah](https://github.com/jge162)
