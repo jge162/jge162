@@ -14,6 +14,8 @@
 </div>
 </kbd>
 
+<div style="height: 20px;"></div> 
+
 ```CPP
 #include <stdio.h>
 
