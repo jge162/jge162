@@ -50,7 +50,7 @@ int main() {
 
 <p>
   <a href="https://aichat-bot.vercel.app/">
-    <img width="195" alt="Screenshot" src="https://github.com/jge162/jge162/raw/main/assets/31228460/b5928499-8c28-4c1e-8b60-5c452ac06160">
+    <img width="195" src="https://github.com/jge162/jge162/raw/main/assets/31228460/b5928499-8c28-4c1e-8b60-5c452ac06160">
   </a>
 </p>
 
