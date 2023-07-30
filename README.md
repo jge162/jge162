@@ -7,10 +7,8 @@
 
 >[!IMPORTANT]\
 >Welcome to my personal [GitHub](https://github.com/jge162)!<br>
->I'm Jeremy Escobar <br>
->**Computer and Electronics Emgineer**
-
-<br> <!-- Empty line -->
+>Hi👋, I'm Jeremy Escobar <br>
+>**Computer and Electronics Engineer**
 
 ```CPP
 #include <stdio.h>
