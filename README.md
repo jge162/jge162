@@ -37,3 +37,6 @@ int main() {
 
 >[!NOTE]\
 >All repos Maintained with 💙 by [@Jermyiah™](https://github.com/jge162)
+
+>[!WARNING]\
+>Please follow [Coding Guidrlines](https://github.com/jge162/jge162/blob/main/coding_guidelines.md). 
