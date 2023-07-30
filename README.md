@@ -22,20 +22,18 @@
 ```CPP
 #include <stdio.h>
 
-void welcome_to_github() {
-    char name[100];
-    printf("Hi there! What's your name? ");
-    scanf("%99[^\n]", name);
-    printf("Hi %s! Welcome to my GitHub! 😄\n", name);
+void welcome() {
+    printf("Hi! Welcome to my GitHub! 😄\n");
 
-    printf("My hobbies are:\n- coding\n- off-roading\n- gaming\n");
+    printf("My hobbies are:\n ");
+    printf("- coding\n- off-roading\n- gaming\n");
 
     printf("\nFeel free to explore my repositories.\n");
     printf("Happy coding!\n");
 }
 
 int main() {
-    welcome_to_github();
+    welcome();
     return 0;
 }
 
