@@ -49,7 +49,6 @@ int main() {
 
 <img width="195" alt="Screenshot 2023-07-30 at 12 35 55 AM" src="https://github.com/jge162/jge162/assets/31228460/b5928499-8c28-4c1e-8b60-5c452ac06160">
 
-<a href="https://aichat-bot.vercel.app/">
-  <img width="195" alt="Screenshot 2023-07-30 at 12 35 55 AM" src="https://github.com/jge162/jge162/raw/main/assets/31228460/b5928499-8c28-4c1e-8b60-5c452ac06160">
-</a>
+[![Screenshot](https://github.com/jge162/jge162/raw/main/assets/31228460/b5928499-8c28-4c1e-8b60-5c452ac06160)](https://aichat-bot.vercel.app/)
+
 
