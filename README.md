@@ -25,8 +25,7 @@
 void welcome() {
     printf("My hobbies are:\n ");
     printf("- coding\n- off-roading\n- gaming\n");
-
-    printf("\nFeel free to explore around\n");
+    printf("Feel free to explore around\n");
     printf("Happy coding!\n");
 }
 
