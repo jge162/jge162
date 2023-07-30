@@ -6,7 +6,7 @@
 </div><br>
 
 >[!IMPORTANT]\
->Welcome to my personal [GitHub](https://github.com/jge162)!
+>#### Welcome to my personal [GitHub](https://github.com/jge162)!
 
 <kbd>
 <div style="border: 1px solid black; padding: 10px; display: inline-block;">
@@ -17,7 +17,7 @@
 <br> <!-- Empty line -->
 
 >[!NOTE]\
->Contributions are welcome and invited!
+>#### Contributions are welcome and invited!
 
 >[!WARNING]\
->All repos Designed with 💙 by [jermyiah](https://github.com/jge162)
+>#### All repos Designed with 💙 by [jermyiah](https://github.com/jge162)
