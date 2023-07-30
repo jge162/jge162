@@ -16,9 +16,6 @@
 
 <br> <!-- Empty line -->
 
->[!NOTE]\
->Contributions are [Welcomed](https://github.com/jge162) and [Encouraged](https://github.com/jge162)!
-
 ```CPP
 #include <stdio.h>
 
