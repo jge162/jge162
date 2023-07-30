@@ -25,11 +25,11 @@
 void welcome_to_github() {
     char name[100];
     printf("Hi there! What's your name? ");
-    fgets(name, sizeof(name), stdin);
+    scanf("%99[^\n]", name);
     printf("Hi %s! Welcome to my GitHub! 😄\n", name);
 
     const char* interests[] = {"coding", "off-roading", "gaming"};
-    for (int i = 0; i < sizeof(interests) / sizeof(interests[0]); i++) {
+    for (int i = 0; i < 3; i++) {
         printf("- %s\n", interests[i]);
     }
 
