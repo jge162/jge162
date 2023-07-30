@@ -20,4 +20,4 @@
 >Contributions are welcome and invited!
 
 >[!WARNING]\
->All repos Designed with 💙 by [jermyiah](https://github.com/jge162)
+>All repos Designed with 💙 by [`jermyiah`](https://github.com/jge162)
