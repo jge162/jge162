@@ -45,4 +45,4 @@ int main() {
 ```
 
 >[!WARNING]\
->All repos Designed with 💙 by [jermyiah](https://github.com/jge162)
+>All repos Maintained with 💙 by [jermyiah](https://github.com/jge162)
