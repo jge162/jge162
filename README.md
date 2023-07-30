@@ -23,7 +23,7 @@
 def welcome_to_github():
     name = input("Hi there! What's your name? ")
     print(f"Hi {name}! Welcome to my GitHub! 😄")
-    interests = ["embedded software design", "programming", "off-roading", "playing games"]
+    interests = ["embedded software design", "coding", "off-roading", "gaming"]
 
     print(*[f"- {interest}" for interest in interests], sep='\n')
 
