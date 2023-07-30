@@ -28,7 +28,7 @@ void welcome_to_github() {
     scanf("%99[^\n]", name);
     printf("Hi %s! Welcome to my GitHub! 😄\n", name);
 
-    printf("My hobbies are:");
+    printf("- My hobbies are:\n");
     printf("- coding\n");
     printf("- off-roading\n");
     printf("- gaming\n");
