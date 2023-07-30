@@ -33,5 +33,8 @@ int main() {
 
 ```
 
+>[!NOTE]\
+>Contributions are [Welcomed](https://github.com/jge162) and [Encouraged](https://github.com/jge162)!
+
 >[!WARNING]\
 >All repos Maintained with 💙 by [jermyiah](https://github.com/jge162)
