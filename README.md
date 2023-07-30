@@ -39,4 +39,4 @@ int main() {
 >All repos Maintained with 💙 by [@Jermyiah™](https://github.com/jge162)
 
 >[!WARNING]\
->Please follow [Coding Guidelines](https://github.com/jge162/jge162/blob/main/coding_guidelines.md) & [Code of Conduct](https://github.com/jge162/jge162/blob/main/code_of_conduct.md) Thank you! 
+>Please follow [Coding Guidelines](https://github.com/jge162/jge162/blob/main/coding_guidelines.md) Thank you! 
