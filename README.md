@@ -23,12 +23,13 @@
 def welcome_to_github():
     name = input("Hi there! What's your name? ")
     print(f"Hi {name}! Welcome to my GitHub! 😄")
-    interests = ["embedded software design", "coding", "off-roading", "gaming"]
+    interests = ["coding", "off-roading", "gaming"]
 
     print(*[f"- {interest}" for interest in interests], sep='\n')
 
     print("\nFeel free to explore my projects and repositories.")
-    print("If you have any questions or want to collaborate, feel free to reach out!")
+    print("If you have any questions or want to collaborate")
+    print("feel free to reach out!")
     print("Happy coding and have a fantastic time on GitHub!")
 
 if __name__ == "__main__":
