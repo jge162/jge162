@@ -23,7 +23,7 @@
 #include <stdio.h>
 
 void welcome() {
-    printf("My hobbies are:\n ");
+    printf("My hobbies are:\n");
     printf("- coding\n- off-roading\n- gaming\n");
     printf("Feel free to explore around!\n");
     printf("Happy coding!\n");
