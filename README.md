@@ -5,14 +5,14 @@
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div><br>
 
+>[!IMPORTANT]\
+>Welcome to my personal GitHub!
+
 <kbd>
 <div style="border: 1px solid black; padding: 10px; display: inline-block;">
     <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/76225a0b-829d-4030-88c7-de2bb9b59e0e">
 </div>  
 </kbd><br>
-
->[!IMPORTANT]\
->Welcome to my personal GitHub!
 
 >[!NOTE]\
 >Contributions are welcome and invited!
