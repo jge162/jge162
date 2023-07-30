@@ -36,4 +36,4 @@ int main() {
 ```
 
 >[!WARNING]\
->All repos Maintained with 💙 by [jermyiah](https://github.com/jge162)
+>All repos Maintained with 💙 by [@jermyiah™](https://github.com/jge162)
