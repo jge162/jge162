@@ -17,7 +17,7 @@
 <br> <!-- Empty line -->
 
 >[!NOTE]\
->Contributions are ***Welcomed*** and ***encouraged***!
+>Contributions are [Welcomed](https://github.com/jge162) and [encouraged](https://github.com/jge162)!
 
 ```CPP
 #include <stdio.h>
