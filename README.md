@@ -7,7 +7,7 @@
 
 >[!IMPORTANT]\
 >Welcome to my personal [GitHub](https://github.com/jge162)!<br>
->Hi👋, I'm Jeremy Escobar aka Jermyiah<br>
+>👋, I'm Jeremy Escobar aka Jermyiah<br>
 >**Computer and Electronics Engineer**
 
 ```CPP
