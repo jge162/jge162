@@ -14,26 +14,6 @@
 </div>
 </kbd>
 
-<br> <!-- Empty line -->
-
-```CPP
-#include <stdio.h>
-
-void welcome() {
-    printf("My hobbies are:\n");
-    printf("- coding\n- off-roading\n- gaming\n");
-    printf("Feel free to explore around!\n");
-}
-
-int main() {
-    welcome();
-    //Contributions are Welcomed and Encouraged.
-    //Happy coding! 
-    return 0;
-}
-
-```
-
 >[!NOTE]\
 >All repos Maintained with 💙 by [@Jermyiah™](https://github.com/jge162)
 
