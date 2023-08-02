@@ -13,3 +13,24 @@
     <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/1b2ac8e5-c7c9-4a9e-bc76-c10ea5254538">
 </div>
 </kbd>
+
+<br>
+
+```CPP
+#include <stdio.h>
+
+void welcome() {
+    printf("My hobbies are:\n");
+    printf("- coding\n- off-roading\n- gaming\n");
+    printf("Feel free to explore around!\n");
+}
+
+int main() {
+    welcome();
+    //Contributions are Welcomed and Encouraged.
+    //Happy coding! 
+    return 0;
+}
+
+```
+
