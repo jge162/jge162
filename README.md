@@ -10,7 +10,7 @@
 
 <kbd>
 <div style="border: 1px solid black; padding: 10px; display: inline-block;">
-    <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/76225a0b-829d-4030-88c7-de2bb9b59e0e">
+    <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/1b2ac8e5-c7c9-4a9e-bc76-c10ea5254538">
 </div>
 </kbd>
 
