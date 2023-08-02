@@ -8,7 +8,7 @@
 >[!IMPORTANT]\
 >Welcome to my personal [**GitHub**](https://github.com/jge162)! "Feel free to look around, [**Contributions are Welcomed!**](https://github.com/jge162)"
 
->#### [`www.jeremyescobar.live`](https://jeremyescobar.live)
+#### [`www.jeremyescobar.live`](https://jeremyescobar.live)
 
 <kbd>
 <div style="border: 1px solid black; padding: 10px; display: inline-block;">
