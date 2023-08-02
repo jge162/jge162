@@ -27,7 +27,6 @@ void welcome() {
 
 int main() {
     welcome();
-    //Contributions are Welcomed and Encouraged.
     //Happy coding! 
     return 0;
 }
