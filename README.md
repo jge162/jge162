@@ -5,13 +5,15 @@
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div><br>
 
+![Blue Modern Technology LinkedIn Banner (9)]()
+
 >[!IMPORTANT]\
 >Welcome to my personal [GitHub](https://github.com/jge162)!
 
 
 <kbd>
 <div style="border: 1px solid black; padding: 10px; display: inline-block;">
-    <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/1b2ac8e5-c7c9-4a9e-bc76-c10ea5254538">
+    <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/686d04f0-c6e8-46e4-a2ee-4aa312c8e401">
 </div>
 </kbd>
 
