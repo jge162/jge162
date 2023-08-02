@@ -55,5 +55,7 @@ int main() {
 </p>
 
 
+![Blue Modern Technology LinkedIn Banner (8)](https://github.com/jge162/jge162/assets/31228460/1b2ac8e5-c7c9-4a9e-bc76-c10ea5254538)
+
 
 
