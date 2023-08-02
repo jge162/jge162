@@ -14,9 +14,7 @@
 </div>
 </kbd>
 
-
-</br>
-
+<br> <!-- Empty line -->
 
 ```CPP
 #include <stdio.h>
