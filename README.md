@@ -10,8 +10,8 @@
 
 
 </p>
-<p align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+personal+GitHub!;Hi%2C+I%E2%80%99m+Jeremy+Escobar!;A+Computer+%26+Electronics+Engineer!;git+pull+origin+main;git+add+.;git+commit+-m+%22Look+around%22;git+push+origin+main;Thanks+for+stopping+by!&font=Fira%20Code&color=%23808080&center=true&width=420&height=120" />
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+personal+GitHub!;Hi%2C+I%E2%80%99m+Jeremy+Escobar!;A+Computer+%26+Electronics+Engineer!;git+commit+-m+%22Look+around%22;Thanks+for+stopping+by!&font=Fira%20Code&color=%23808080&center=true&width=360&height=100" />
 </p>
 
 <kbd>
