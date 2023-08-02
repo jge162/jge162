@@ -11,6 +11,12 @@
 >Welcome to my personal [GitHub](https://github.com/jge162)!
 
 
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+personal+GitHub!;Hi%2C+I%E2%80%99m+Jeremy+Escobar!;A+Computer+%26+Electronics+Engineer!;git+pull+origin+main;git+add+.;git+commit+-m+%22Look+around%22;git+push+origin+main;Thanks+for+stopping+by!&font=Fira%20Code&color=%23808080&center=true&width=420&height=120" />
+</p>
+</br>
+
 <kbd>
 <div style="border: 1px solid black; padding: 10px; display: inline-block;">
     <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/686d04f0-c6e8-46e4-a2ee-4aa312c8e401">
