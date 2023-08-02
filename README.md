@@ -5,17 +5,14 @@
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div><br>
 
-![Blue Modern Technology LinkedIn Banner (9)]()
-
 >[!IMPORTANT]\
 >Welcome to my personal [GitHub](https://github.com/jge162)!
 
 
 </p>
-<p align="center">
+<p align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+personal+GitHub!;Hi%2C+I%E2%80%99m+Jeremy+Escobar!;A+Computer+%26+Electronics+Engineer!;git+pull+origin+main;git+add+.;git+commit+-m+%22Look+around%22;git+push+origin+main;Thanks+for+stopping+by!&font=Fira%20Code&color=%23808080&center=true&width=420&height=120" />
 </p>
-</br>
 
 <kbd>
 <div style="border: 1px solid black; padding: 10px; display: inline-block;">
