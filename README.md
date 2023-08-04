@@ -18,20 +18,3 @@
 
 <br> <!-- Empty line -->
 
-```CPP
-#include <stdio.h>
-
-void welcome() {
-    printf("My hobbies are:\n");
-    printf("- coding\n- off-roading\n- gaming\n");
-    printf("Feel free to explore around!\n");
-}
-
-int main() {
-    welcome();
-    //Happy coding! 
-    return 0;
-}
-
-```
-
