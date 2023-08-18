@@ -5,8 +5,6 @@
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div><br>
 
-<img src="https://github.com/jge162/jge162/raw/main/assets/31228460/c2bcdb5c-f221-4f24-8c6f-47362896f9ef/photo5.jpg" alt="photo5" width="300" />
-
 >[!IMPORTANT]\
 >Welcome to my personal [GitHub](https://github.com/jge162)!<br>
 >👋, I'm Jeremy Escobar aka Jermyiah<br>
