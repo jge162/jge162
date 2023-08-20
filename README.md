@@ -8,10 +8,11 @@
 >[!IMPORTANT]\
 >Welcome to my personal [**GitHub**](https://github.com/jge162)! "Feel free to look around, [**Contributions are Welcomed!**](https://github.com/jge162)"
 
-## Personal Website ↓
+## My Personal Website ↓
 ### [`www.jeremyescobar.live`](https://jeremyescobar.live)
 
-## Need a website? Software Help? Hardware testing? See my site below ↓
+## Need a `Website`? `Software` Help? `Hardware` testing? 
+## ↓ See my site below ↓
 ### [`www.ectechnologyservices.com`](https://ectechnologyservices.com)
 
 <kbd>
