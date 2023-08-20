@@ -10,6 +10,7 @@
 
 ### [`www.jeremyescobar.live`](https://jeremyescobar.live)
 
+>Need a website? Software Help? Hardware testing? See my site below!
 ### [`www.ectechnologyservices.com`](https://ectechnologyservices.com)
 
 <kbd>
