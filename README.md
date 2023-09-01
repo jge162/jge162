@@ -11,7 +11,7 @@
 
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+personal+GitHub!;Hi%2C+I%E2%80%99m+Jeremy+E!;A+Computer+%26+Electronics+Engineer!;git+commit+-m+%22Look+around%22;Thanks+for+stopping+by!&font=Fira%20Code&color=%23808080&center=true&width=360&height=100" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+personal+GitHub!;Hi%2C+I%E2%80%99m+Jeremy!;A+Computer+%26+Electronics+Engineer!;git+commit+-m+%22Look+around%22;Thanks+for+stopping+by!&font=Fira%20Code&color=%23808080&center=true&width=360&height=100" />
 </p>
 
 <kbd>
