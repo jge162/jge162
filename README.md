@@ -7,6 +7,8 @@
 
 ![IMG_1506](https://github.com/jge162/jge162/assets/31228460/154a6e2e-1c6d-40b4-846e-bea94b9337e3)
 
+<img src="https://github.com/jge162/jge162/assets/31228460/154a6e2e-1c6d-40b4-846e-bea94b9337e3" alt="IMG_1506" width="300">
+
 [EC Technology Services](https://ectechnologyservices.com)
 
 
