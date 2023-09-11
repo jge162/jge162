@@ -7,14 +7,8 @@
 
 <img src="https://github.com/jge162/jge162/assets/31228460/154a6e2e-1c6d-40b4-846e-bea94b9337e3" alt="IMG_1506" width="200">
 
-[EC Technology Services](https://ectechnologyservices.com)
+## [EC Technology Services](https://ectechnologyservices.com)
 
 
 >[!IMPORTANT]\
 >Welcome to my personal [**GitHub**](https://github.com/jge162)! "Feel free to look around, [**Contributions are Welcomed!**](https://github.com/jge162)"
-
-<kbd>
-<div style="border: 1px solid black; padding: 10px; display: inline-block;">
-    <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/1b2ac8e5-c7c9-4a9e-bc76-c10ea5254538">
-</div>
-</kbd>
