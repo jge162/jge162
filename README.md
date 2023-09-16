@@ -7,7 +7,6 @@
 
 ### [EC Technology Services](https://ectechnologyservices.com)
 
-
 >[!IMPORTANT]\
 >Welcome to my personal [**GitHub**](https://github.com/jge162)! "Feel free to look around, [**Contributions are Welcomed!**](https://github.com/jge162)"
 
