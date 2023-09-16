@@ -5,8 +5,6 @@
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div><br>
 
-### [EC Technology Services](https://ectechnologyservices.com)
-
 >[!IMPORTANT]\
 >Welcome to my personal [**GitHub**](https://github.com/jge162)! "Feel free to look around, [**Contributions are Welcomed!**](https://github.com/jge162)"
 
