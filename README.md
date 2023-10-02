@@ -14,6 +14,3 @@
     <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/ec67f98d-965f-4cb1-8341-50269b598295">
 </div>
 </kbd>
-
-
-![Blue Modern Technology LinkedIn Banner](https://github.com/jge162/jge162/assets/31228460/ec67f98d-965f-4cb1-8341-50269b598295)
