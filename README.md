@@ -71,3 +71,4 @@ int main() {
 </div>
 </kbd>
 
+![BLack Minimalist Corporate Staff Identity LinkedIn Banner](https://github.com/jge162/jge162/assets/31228460/64f3342f-be02-499c-9f5c-f0cc84cc4c9f)
