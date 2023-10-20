@@ -11,6 +11,6 @@
 
 <kbd>
 <div style="border: 1px solid black; padding: 10px; display: inline-block;">
-    <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/ec67f98d-965f-4cb1-8341-50269b598295">
+    <img width="1020" alt="Screenshot 2023-07-09 at 3 45 54 PM" src="https://github.com/jge162/jge162/assets/31228460/3cad24d4-2a81-4494-80fc-82cba2cabfae">
 </div>
 </kbd>
