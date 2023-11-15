@@ -6,7 +6,7 @@
 </div><br>
 
 >[!IMPORTANT]\
-# welcome.py
+> # welcome.py
 
 ```Python
 def welcome_message():
