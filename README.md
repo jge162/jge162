@@ -8,8 +8,6 @@
 ```Python
 #!/usr/bin/python3
 
-#!/usr/bin/python3
-
 def welcome_message():
     messages = [
         "Welcome to my GitHub repository!",
