@@ -6,4 +6,4 @@
 </div><br>
 
 >[!IMPORTANT]\
->Welcome to my personal [**GitHub**](https://github.com/jge162)! "Feel free to look around, [**Contributions are Welcomed!**](https://github.com/jge162)"
+>Welcome to my personal [**GitHub**](https://github.com/jge162)! "Feel free to look around!"
