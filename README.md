@@ -8,7 +8,7 @@
 >[!IMPORTANT]\
 # welcome.py
 
-````Python
+```Python
 def welcome_message():
     print("Welcome to my GitHub repository!")
     print("Feel free to look around.")
@@ -16,3 +16,4 @@ def welcome_message():
 
 if __name__ == "__main__":
     welcome_message()
+```
