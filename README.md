@@ -5,10 +5,9 @@
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div><br>
 
->[!IMPORTANT]\
-> # welcome.py
-
 ```Python
+#!/usr/bin/python3
+
 def welcome_message():
     print("Welcome to my GitHub repository!")
     print("Feel free to look around.")
