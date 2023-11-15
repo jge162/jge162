@@ -6,4 +6,14 @@
 </div><br>
 
 >[!IMPORTANT]\
->Welcome to my personal [**GitHub**](https://github.com/jge162)! "Feel free to look around!"
+# welcome.py
+
+````Python
+def welcome_message():
+    print("Welcome to my GitHub repository!")
+    print("Feel free to look around.")
+    print("Contributions are welcome!")
+
+if __name__ == "__main__":
+    welcome_message()
+```
