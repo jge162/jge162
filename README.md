@@ -8,11 +8,19 @@
 ```Python
 #!/usr/bin/python3
 
+#!/usr/bin/python3
+
 def welcome_message():
-    print("Welcome to my GitHub repository!")
-    print("Feel free to look around.")
-    print("Contributions are welcome!")
+    messages = [
+        "Welcome to my GitHub repository!",
+        "Feel free to look around.",
+        "Contributions are welcome!"
+    ]
+
+    for message in messages:
+        print(message)
 
 if __name__ == "__main__":
     welcome_message()
+
 ```
