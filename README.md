@@ -6,21 +6,3 @@
 </div><br>
 
 ![code](https://github.com/jge162/jge162/assets/31228460/828b4fa4-9f0a-4e43-a084-8ea509f9c135)
-
-```Python
-#!/usr/bin/env python3
-
-def welcome_message():
-    messages = [
-        "Welcome to my GitHub repo",
-        "Feel free to look around.",
-        "Contributions are welcome!"
-    ]
-
-    for message in messages:
-        print(message)
-
-if __name__ == "__main__":
-    welcome_message()
-
-```
