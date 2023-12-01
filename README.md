@@ -10,7 +10,7 @@
 
 def welcome_message():
     messages = [
-        "Welcome to my GitHub repository!",
+        "Welcome to my GitHub repo",
         "Feel free to look around.",
         "Contributions are welcome!"
     ]
