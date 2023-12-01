@@ -5,6 +5,8 @@
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div><br>
 
+![code](https://github.com/jge162/jge162/assets/31228460/828b4fa4-9f0a-4e43-a084-8ea509f9c135)
+
 ```Python
 #!/usr/bin/env python3
 
