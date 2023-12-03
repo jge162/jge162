@@ -6,9 +6,7 @@
 </div><br>
 
 ```python
-#!/usr/bin/python3
-
-#!/usr/bin/python3
+#!/usr/bin/env python3
 import datetime
 import random
 
