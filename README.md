@@ -21,18 +21,17 @@ def welcome_message():
 
     # Random welcome phrases
     welcome_phrases = [
-        "Welcome to my digital abode!",
+        "Welcome to my GitHub repository!",
         "Glad to see you here!",
+        "Feel free to look around.",
+        "Contributions are welcome!",
     ]
 
     messages = [
         "-----------------------------------",
         "B.S., Computer & Electronics Engineer",
         "M.S., Computer Science (Cybersecurity) '24",
-        "PhD after MS? maybe IDK",
-        "Welcome to my GitHub repository!",
-        "Feel free to look around.",
-        "Contributions are welcome!",
+        "Ph.D, after MSCS? maybe IDK",
         "-----------------------------------",
         f"Today's Date: {today}",
         random.choice(welcome_phrases),
