@@ -29,7 +29,7 @@ def welcome_message():
 
     messages = [
         "-----------------------------------",
-        "B.S., Computer & Electronics Engineer",
+        "B.S., Computer & Electronics Engineer '23",
         "M.S., Computer Science (Cybersecurity) '24",
         "Ph.D, after MSCS? maybe IDK",
         "-----------------------------------",
