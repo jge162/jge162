@@ -8,14 +8,38 @@
 ```python
 #!/usr/bin/python3
 
+#!/usr/bin/python3
+import datetime
+import random
+
 def welcome_message():
+    """
+    Print a welcome message with dynamic elements.
+    """
+
+    # Dynamic date
+    today = datetime.datetime.now().strftime("%Y-%m-%d")
+
+    # Random welcome phrases
+    welcome_phrases = [
+        "Welcome to my digital abode!",
+        "Glad to see you here!",
+        "Welcome aboard, fellow coder!",
+        "Hello and welcome!"
+    ]
+
     messages = [
-        "B.S., Computer & Electronics Engineer"
-        "M.S., Computer Science (Cybersecurity) '24"
-        "PhD after MS? maybe IDK" 
+        "-----------------------------------",
+        "B.S., Computer & Electronics Engineer",
+        "M.S., Computer Science (Cybersecurity) '24",
+        "PhD after MS? maybe IDK",
         "Welcome to my GitHub repository!",
         "Feel free to look around.",
-        "Contributions are welcome!"
+        "Contributions are welcome!",
+        "-----------------------------------",
+        f"Today's Date: {today}",
+        random.choice(welcome_phrases),
+        "-----------------------------------"
     ]
 
     for message in messages:
@@ -23,4 +47,5 @@ def welcome_message():
 
 if __name__ == "__main__":
     welcome_message()
+
 ```
