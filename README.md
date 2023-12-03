@@ -22,9 +22,6 @@ def welcome_message():
     # Random welcome phrases
     welcome_phrases = [
         "Welcome to my digital abode!",
-        "Glad to see you here!",
-        "Welcome aboard, fellow coder!",
-        "Hello and welcome!"
     ]
 
     messages = [
