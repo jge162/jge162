@@ -12,6 +12,7 @@ def welcome_message():
     messages = [
         "B.S., Computer & Electronics Engineer"
         "M.S., Computer Science (Cybersecurity) '24"
+        "PhD after MS? maybe IDK" 
         "Welcome to my GitHub repository!",
         "Feel free to look around.",
         "Contributions are welcome!"
