@@ -27,8 +27,7 @@ def welcome_message():
     messages = [
         "-----------------------------------",
         "B.S., Computer & Electronics Engineer '23",
-        "M.S., Computer Science (Cybersecurity) '24",
-        "Ph.D, after MSCS? maybe IDK",
+        "M.S., Computer Science '24",
         "-----------------------------------",
         f"Today's Date: {today}",
         random.choice(welcome_phrases),
