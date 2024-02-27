@@ -12,9 +12,6 @@ import datetime
 import random
 
 def welcome_message():
-    """
-    Print a welcome message with dynamic elements.
-    """
 
     # Dynamic date
     today = datetime.datetime.now().strftime("%Y-%m-%d")
