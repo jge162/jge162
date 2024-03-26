@@ -19,9 +19,7 @@ def welcome_message():
     # Random welcome phrases
     welcome_phrases = [
         "Welcome to my GitHub repository!",
-        "Glad to see you here!",
         "Feel free to look around.",
-        "Contributions are welcome!",
     ]
 
     messages = [
