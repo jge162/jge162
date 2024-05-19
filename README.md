@@ -7,4 +7,4 @@
 
 # Computer & Electronics Engineer ‣ M.S. Candidate in Computer Science
 
-Hi, I am Jeremy Escobar. I have a strong academic foundation and **hands-on experience** an am committed to driving **innovation, delivering results, and leveraging** my capabilities in Engineering.
+Hi, I am Jeremy Escobar. I have a strong academic foundation and **hands-on experience** and am committed to driving **innovation, delivering results, and leveraging** my capabilities in Engineering.
