@@ -8,8 +8,3 @@
 # Computer & Electronics Engineer ‣ M.S. Candidate in Computer Science
 
 Hi, I am Jeremy Escobar. I have a strong academic foundation and hands-on experience in **Embedded Software, Firmware, Hardware, Ethical Hacking** and **Electrical Engineering**. I am committed to driving innovation, delivering results, and leveraging my capabilities in Engineering.
-
-
-<kbd>
-![zoom-aerial-03](https://github.com/jge162/jge162/assets/31228460/5e10bd64-5a67-44de-8948-ad309e9beb34)
-</kbd>
