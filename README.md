@@ -5,6 +5,6 @@
   <a href="https://github.com/jge162?tab=followers"><img src="https://img.shields.io/github/followers/jge162?label=Followers&style=social" alt="GitHub Badge"></a>
 </div><br>
 
-# Electrical & Cybersecurity Engineer 
+# Electrical | Cybersecurity Engineer 
 
 Hi, I am Jeremy Escobar. I have a strong academic foundation and **hands-on experience**, I am committed to driving **innovation, delivering results, and leveraging** my capabilities in Engineering.
